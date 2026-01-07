@@ -22,10 +22,11 @@ def get_cities(year):
         if '/miasto/' in href and year in href:
             city_links.append(href)
     print(f"Found {len(city_links)} city links")
+    # city_links = city_links[:2] 
     return city_links
 
 # Function to scrape data for a city and year
-def scrape_city_data(city_link):
+def scrape_city_data(city_link, year):
     url = city_link
     response = requests.get(url, verify=False)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -46,26 +47,23 @@ def scrape_city_data(city_link):
             school_links.append('https://www.otouczelnie.pl' + href)
     
     print(f"Found {len(school_links)} schools in {city}")
+    # school_links = school_links[:3]
     
     # For each school, scrape the detailed page
     for school_url in school_links:
-        school_data = scrape_school_data(school_url, city)
+        school_data = scrape_school_data(school_url, city, year)
         data.extend(school_data)
         time.sleep(0.5)
     
     return data
 
-def scrape_school_data(school_url, city):
+def scrape_school_data(school_url, city, year):
     response = requests.get(school_url, verify=False)
     soup = BeautifulSoup(response.content, 'html.parser')
     
     # Extract school name
     h1 = soup.find('h1')
     school_name = h1.text.strip() if h1 else 'Unknown'
-    
-    # Extract year from active submenu
-    active_year_link = soup.find('a', class_='submenu-entry active')
-    year = active_year_link.text.strip() if active_year_link else 'Unknown'
     
     # Extract address
     address_div = soup.find('div', class_='address_row')
@@ -86,7 +84,7 @@ def scrape_school_data(school_url, city):
                 course = tds[0].text.strip()
                 threshold = tds[1].text.strip()
                 data.append({
-                    'year': year,
+                    'year': year.replace('-', '/'),
                     'city': city,
                     'school': school_name,
                     'address': address,
@@ -94,7 +92,7 @@ def scrape_school_data(school_url, city):
                     'threshold': threshold
                 })
     
-    print(f"Scraped {len(data)} courses for {school_name}")
+    print(f"Scraped {len(data)} courses for {school_name} in {year}")
     
     return data
 
@@ -104,10 +102,10 @@ all_data = []
 for year in years:
     city_links = get_cities(year)
     for link in city_links:
-        city_data = scrape_city_data(link)
+        city_data = scrape_city_data(link, year)
         all_data.extend(city_data)
         time.sleep(0.5)  # Be polite
 
 # Save to CSV
 df = pd.DataFrame(all_data)
-df.to_csv('school_thresholds.csv', index=False)
+df.to_csv('school_thresholds_otouczelnie_raw.csv', index=False)
