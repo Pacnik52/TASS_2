@@ -5,6 +5,7 @@ import unicodedata
 from pathlib import Path
 from typing import Dict
 from difflib import SequenceMatcher
+from fuzzywuzzy import fuzz
 
 # ============================================================================
 # FUNKCJE DO NORMALIZACJI TEKSTU
@@ -42,12 +43,12 @@ def normalize_school_name(text):
     norm = norm.replace('liceum ogolnoksztalcace', 'lo')
     norm = norm.replace('technikum', 'tech')
     
-    # Usuwanie słów zakłócających (imienia, nr, oddziały itp.)
+    # Usuwanie słów zakłócających
     words_to_remove = ['im', 'nr', 'z oddzialami', 'integracyjnymi', 'dwujezycznymi', 'sportowymi', 'mistrzostwa', 'sportowego', 'dla doroslych', 'zespol szkol']
     for word in words_to_remove:
         norm = re.sub(r'\b' + word + r'\b', '', norm)
     
-    # Usuń wszystkie spacje na końcu, aby "I LO" i "ILO" były tym samym
+    # Usuwanie wszystkich spacji
     norm = re.sub(r'\s+', '', norm)
     return norm
 
@@ -223,11 +224,14 @@ def process_thresholds():
     thresholds_df['ulica'] = thresholds_df['address'].apply(extract_street)
     thresholds_df['ulica'] = thresholds_df['ulica'].apply(normalize_text)
     
+    # Ekstrakcja kodu pocztowego
+    thresholds_df['kod_pocztowy'] = thresholds_df['address'].apply(lambda x: re.search(r'\d{2}-\d{3}', str(x)).group(0) if re.search(r'\d{2}-\d{3}', str(x)) else None)
+    
     # Konwersja threshold na float
     thresholds_df['threshold'] = pd.to_numeric(thresholds_df['threshold'], errors='coerce')
     
     # Wyznaczenie średnich i median progów dla każdej szkoły w danym roku
-    thresholds_agg = thresholds_df.groupby(['year', 'school', 'city', 'ulica', 'address'])['threshold'].agg(['mean', 'median', 'count']).reset_index() 
+    thresholds_agg = thresholds_df.groupby(['year', 'school', 'city', 'ulica', 'kod_pocztowy', 'address'])['threshold'].agg(['mean', 'median', 'count']).reset_index() 
     thresholds_agg.rename(columns={
         'mean': 'avg_threshold',
         'median': 'median_threshold',
@@ -278,6 +282,44 @@ def merge_datasets(matura_df, rspo_df, thresholds_agg):
 
     matched = final_df[final_df['avg_threshold'].notna()]
     print(f"   Z informacją o progach rekrutacyjnych: {len(matched)} wierszy ({100*len(matched)/len(final_df):.1f}%)")
+    
+    # Fuzzy matching dla unmatched szkół
+    unmatched = final_df[final_df['avg_threshold'].isna()].copy()
+    if not unmatched.empty:
+        print(f"   Fuzzy matching dla {len(unmatched)} szkół")
+        
+        possible_matches = {}
+        for (city, year), group in thresholds_agg.groupby(['city', 'year']):
+            possible_matches[(city, year)] = dict(zip(group['school'], group[['ulica', 'kod_pocztowy', 'avg_threshold', 'median_threshold', 'count_courses']].to_dict('records')))
+        
+        def find_fuzzy_match(row):
+            city_year = (row['miejscowosc_rspo'], row['rok_wyniku'])
+            if city_year not in possible_matches:
+                return pd.Series([None, None, None])
+            
+            school_name = row['nazwa_szkoly']
+            best_match = None
+            best_score = 0
+            for thresh_school in possible_matches[city_year]:
+                score = fuzz.ratio(school_name, thresh_school)
+                if score > best_score and score > 80:
+                    best_score = score
+                    best_match = possible_matches[city_year][thresh_school]
+            
+            if best_match:
+                return pd.Series([best_match['avg_threshold'], best_match['median_threshold'], best_match['count_courses']])
+            else:
+                return pd.Series([None, None, None])
+        
+        fuzzy_results = unmatched.apply(find_fuzzy_match, axis=1)
+        fuzzy_results.columns = ['avg_threshold', 'median_threshold', 'count_courses']
+        
+        for idx in unmatched.index:
+            if not fuzzy_results.loc[idx].isna().all():
+                final_df.loc[idx, ['avg_threshold', 'median_threshold', 'count_courses']] = fuzzy_results.loc[idx]
+        
+        matched_after_fuzzy = final_df[final_df['avg_threshold'].notna()]
+        print(f"   Znaleziono: {len(matched_after_fuzzy)} wierszy")
     
     # Filtrowanie szkół bez progów w którymkolwiek roku
     final_df = final_df[final_df.groupby('RSPO')['avg_threshold'].transform('any')]
