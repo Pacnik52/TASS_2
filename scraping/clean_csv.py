@@ -1,8 +1,8 @@
 import csv
 
 # Input and output file paths
-input_file = 'school_thresholds_otouczelnie_raw.csv'
-output_file = 'school_thresholds_otouczelnie_clean.csv'
+input_file = '../results/scraping/school_thresholds_otouczelnie_raw.csv'
+output_file = '../results/scraping/school_thresholds_otouczelnie_clean.csv'
 
 # Process the CSV
 with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8', newline='') as outfile:
