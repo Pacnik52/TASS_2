@@ -96,7 +96,7 @@ def scrape_school_data(school_url, city, year):
     
     return data
 
-# Main scraping
+# Main datasets
 all_data = []
 
 for year in years:

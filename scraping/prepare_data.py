@@ -483,7 +483,7 @@ def main():
         final_df = pivot_by_year(final_df)
         
         # Zapis
-        output_file = 'data.csv'
+        output_file = '../datasets/data.csv'
         print(f"\nZapis do pliku: {output_file}")
         final_df.to_csv(output_file, index=False, encoding='utf-8', sep=';')
         print(f"    Zapisano {len(final_df)} wierszy")

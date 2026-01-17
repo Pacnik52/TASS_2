@@ -4,7 +4,7 @@ import os
 
 FILES_MATURA = ['EM2023 - 09.2023.csv', 'EM2023 - 09.2024.csv', 'EM2023 - 09.2025.csv']
 FILE_RSPO = '../results/analysis/rspo_2025_fixed.csv'
-FILE_THRESHOLDS = '../results/scraping/school_thresholds_otouczelnie_clean.csv'
+FILE_THRESHOLDS = '../datasets/school_thresholds_otouczelnie_clean.csv'
 OUTPUT_FILE = '../results/analysis/joined_data.csv'
 
 def load_matura_data(files):
