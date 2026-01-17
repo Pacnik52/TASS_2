@@ -8,6 +8,10 @@
 - pathlib
 - requests
 - BeautifulSoup
+- matplotlib
+- seaborn
+- sklearn
+- scipy
 
 ## scraper.py - scrapowanie danych z otouczelnie.pl
 Skrypt pobiera progi punktowe dla liceów w latach 2023-2025
@@ -37,3 +41,48 @@ Przed uruchomieniem skryptu należało przygotować pliki CSV z rejestru RSPO or
 5. clean(df) - czyszczenie danych: analiza NaN, sortowanie rekordów
 6. pivot_by_year(df) - formatowanie danych, uzyskanie jednego wiersza kla każdej szkoły
 7. main() - wynikiem skryptu jest plik data.csv, który zawiera kolumny metadanych z prefiksami lat, każdy wiersz ma unikalny RSPO
+
+## final_analysis.py
+* detect_prefix(df, year_short): sprawdza obecność kropek w nazwie kolumn
+* to_num(s): zamienia wartosci z CSV na liczby, w przeciwnym wypadku zwraca NaN
+* spearman_pair(x, y): oblicza korelację spearmana między 2 zmiennymi
+* main():
+    1. wczytanie danych
+    2. filtrowanie szkół bez kompletu danych
+    3. obliczenie rozbieżności próg vs wynik
+    4. utworzenie rankingu szkol odstajacych, korelacji i wykresow
+    5. wyznaczenie cech wspolnych liderow i maruderow
+
+## wyniki_analizy
+* wykres_prog_vs_wynik.png
+
+X - średni próg punktowy przyjęcia do szkoły  
+Y - średni wynik z matury z polskiego w %  
+punkty - analizowane szkoły  
+kolory: liderzy - szkoły osiągające wyższy wynik niż oczekiwany względem progu  
+maruderzy - szkoły osiągające niższe wyniki niż oczekiwane  
+środek - wynik zgodny z trendem  
+linia regresji - oczekiwany wynik przy danym progu  
+
+* wykres_wynik_vs_zdawalnosc.png
+
+X - średni wynik z matury z polskiego w %  
+Y - zdawalność matury w %  
+punkty - analizowane szkoły
+
+* heatmap_korelacje.png
+
+Mapa korelacji spearmana pomiędzy cechami uwzględnionymi w analizie:  
+próg rekrutacyjny, średni wynik z polskiego, zdawalność matury, liczba zdajacych, liczba uczniow, residuum (wskaznik rozbieżności)
+- czerwony: dodatnia korelacja
+- niebieski - ujemna korelacja
+- neutralny - brak istotnej zależności 
+- wartości liczbowe - współczynnik korelacji
+
+* ranking_odstajace_top50.csv
+
+lista 50 szkół o największej rozbieżnośći między wynikiem a wynikiem oczekiwanym
+
+* cechy_wspolne.csv
+
+* korelacje.csv
