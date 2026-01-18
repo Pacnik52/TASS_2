@@ -9,7 +9,7 @@ base_url = "https://www.otouczelnie.pl/progi-punktowe/licea/ogolnopolskie/"
 # Years to scrape
 years = ["2023-2024", "2024-2025", "2025-2026"]
 
-# Function to get cities for a year
+# get cities for a year
 def get_cities(year):
     url = base_url + year
     response = requests.get(url, verify=False)
@@ -30,13 +30,9 @@ def scrape_city_data(city_link, year):
     url = city_link
     response = requests.get(url, verify=False)
     soup = BeautifulSoup(response.content, 'html.parser')
-    
-    # Extract city name from title
+
     title = soup.find('title').text
-    # Title like "Progi punktowe do liceów w Białymstoku 2025/2026"
     city = title.split(' w ')[1].split(' ')[0] if ' w ' in title else city_link.split('/')[-2]
-    
-    # Parse the page to get school data
     data = []
     
     # Find all school links
@@ -78,7 +74,7 @@ def scrape_school_data(school_url, city, year):
     data = []
     if table:
         rows = table.find_all('tr')
-        for row in rows[1:]:  # skip header
+        for row in rows[1:]:
             tds = row.find_all('td')
             if len(tds) == 2:
                 course = tds[0].text.strip()
@@ -104,7 +100,7 @@ for year in years:
     for link in city_links:
         city_data = scrape_city_data(link, year)
         all_data.extend(city_data)
-        time.sleep(0.5)  # Be polite
+        time.sleep(0.5)
 
 # Save to CSV
 df = pd.DataFrame(all_data)
