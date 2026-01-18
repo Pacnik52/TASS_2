@@ -6,9 +6,9 @@ import seaborn as sns
 from sklearn.linear_model import LinearRegression
 from scipy.stats import zscore, chi2_contingency, mannwhitneyu, spearmanr
 
-ANALYSIS_YEAR = "24"
+ANALYSIS_YEAR = "23"
 INPUT_FILE = Path("../datasets/data.csv")
-OUTPUT_DIR = Path("wyniki_analizy")
+OUTPUT_DIR = Path(f"wyniki_analizy_{ANALYSIS_YEAR}")
 MIN_EXAM_TAKERS = 10
 
 def detect_prefix(df: pd.DataFrame, year_short: str) -> str:
@@ -63,14 +63,14 @@ def main():
     work["exp_wynik"] = m1.predict(work[["prog"]].values)
     work["res_prog_wynik"] = work["wynik"] - work["exp_wynik"]
     work["exp_zdawalnosc"] = np.nan
-    work["res_wynik_zdaw"] = np.nan
+    # work["res_wynik_zdaw"] = np.nan
 
     if work["zdawalnosc"].notna().sum() >= 30:
         tmp = work.dropna(subset=["zdawalnosc", "wynik"]).copy()
         m2 = LinearRegression().fit(tmp[["wynik"]].values, tmp["zdawalnosc"].values)
         tmp["exp_zdawalnosc"] = m2.predict(tmp[["wynik"]].values)
         tmp["res_wynik_zdaw"] = tmp["zdawalnosc"] - tmp["exp_zdawalnosc"]
-        work = work.merge(tmp[["RSPO", "exp_zdawalnosc", "res_wynik_zdaw"]], on="RSPO", how="left")
+        work = work.drop(columns=["exp_zdawalnosc", "res_wynik_zdaw"]).merge(tmp[["RSPO", "exp_zdawalnosc", "res_wynik_zdaw"]], on="RSPO", how="left")
         if "res_wynik_zdaw" not in work.columns:
             work["res_wynik_zdaw"] = np.nan
 
@@ -120,26 +120,27 @@ def main():
     cols = [c for c in cols if c in work.columns]
 
     # 50 szkół odstających
-    work.sort_values("outlier_score", ascending=False)[cols].head(50).to_csv(
+    top50 = work.sort_values("outlier_score", ascending=False).head(50).copy()
+    top50[cols].to_csv(
         OUTPUT_DIR / "ranking_odstajace_top50.csv", sep=";", index=False, encoding="utf-8-sig"
     )
 
-    # cechy wspólne szkół odstających
-    liderzy = work[work["grupa"] == "Liderzy"]
-    maruderzy = work[work["grupa"] == "Maruderzy"]
+    # cechy wspólne szkół odstających (tylko dla top 50)
+    liderzy = top50[top50["grupa"] == "Liderzy"]
+    maruderzy = top50[top50["grupa"] == "Maruderzy"]
 
     rows = []
 
     for c in ["publicznosc_status", "typ_gminy", "kategoria_uczniow", "wojewodztwo"]:
-        if c not in work.columns:
+        if c not in top50.columns:
             continue
 
-        tab = pd.crosstab(work["grupa"], work[c])
+        tab = pd.crosstab(top50["grupa"], top50[c])
         p = np.nan
         if tab.shape[0] >= 2 and tab.shape[1] >= 2:
             _, p, _, _ = chi2_contingency(tab)
 
-        pct = pd.crosstab(work["grupa"], work[c], normalize="index") * 100
+        pct = pd.crosstab(top50["grupa"], top50[c], normalize="index") * 100
         if "Liderzy" in pct.index:
             topcats = pct.loc["Liderzy"].sort_values(ascending=False).head(3)
             for cat, val in topcats.items():
@@ -194,6 +195,29 @@ def main():
         plt.title(f"Wynik z polskiego vs zdawalność (20{ANALYSIS_YEAR})")
         plt.tight_layout()
         plt.savefig(OUTPUT_DIR / "wykres_wynik_vs_zdawalnosc.png", dpi=200)
+        plt.close()
+
+    # Nowy wykres: Liczba uczniów dla top 50 najbardziej odstających szkół
+    if "liczba_uczniow" in top50.columns:
+        plt.figure(figsize=(12, 15))
+        # Sortowanie top50 po liczbie uczniów dla lepszej czytelności wykresu
+        top50_sorted = top50.sort_values("liczba_uczniow", ascending=False)
+
+        sns.scatterplot(
+            data=top50_sorted,
+            y="pelna_nazwa_szkoly",
+            x="liczba_uczniow",
+            hue="grupa",
+            palette={"Liderzy": "green", "Maruderzy": "red", "Srodek": "gray"},
+            s=100  # Wielkość punktów dla lepszej widoczności
+        )
+
+        plt.title(f"Liczba uczniów w top 50 najbardziej odstających szkołach (20{ANALYSIS_YEAR})")
+        plt.xlabel("Liczba uczniów")
+        plt.ylabel("Nazwa szkoły")
+        plt.tight_layout()
+        plt.subplots_adjust(left=0.6)
+        plt.savefig(OUTPUT_DIR / "wykres_top50_liczba_uczniow.png", dpi=200)
         plt.close()
 
     work[cols].to_csv(OUTPUT_DIR / "wyniki_analizy_szkol.csv", sep=";", index=False, encoding="utf-8-sig")

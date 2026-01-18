@@ -7,7 +7,7 @@ import time
 base_url = "https://www.otouczelnie.pl/progi-punktowe/licea/ogolnopolskie/"
 
 # Years to scrape
-years = ["2025-2026", "2024-2025", "2023-2024"]
+years = ["2023-2024", "2024-2025", "2025-2026"]
 
 # Function to get cities for a year
 def get_cities(year):
@@ -58,7 +58,7 @@ def scrape_city_data(city_link, year):
     return data
 
 def scrape_school_data(school_url, city, year):
-    response = requests.get(school_url, verify=False)
+    response = requests.get(f"{school_url}-{year}", verify=False)
     soup = BeautifulSoup(response.content, 'html.parser')
     
     # Extract school name

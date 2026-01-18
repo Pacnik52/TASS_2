@@ -125,6 +125,7 @@ def process_matura_files():
         
         # Dodaj kolumnę roku
         df['rok_wyniku'] = year
+        df['pelna_nazwa_szkoly'] = df['nazwa_szkoly']
 
         # Normalizacja danych w trakcie wczytywania
         df['nazwa_szkoly'] = df['nazwa_szkoly'].apply(normalize_school_name)
@@ -140,7 +141,7 @@ def process_matura_files():
 
     columns_to_keep = [
         'rok_wyniku', 'wojewodztwo', 'powiat', 'gmina', 'typ_gminy',
-        'RSPO', 'nazwa_szkoly', 'miejscowosc', 'ulica_nr',
+        'RSPO', 'nazwa_szkoly', 'pelna_nazwa_szkoly', 'miejscowosc', 'ulica_nr',
         'typ_placowki', 'czy_publiczna',
         'O_otrzymali_swiadectwo_dojrzałosci', 'O_liczba_zdających', 'O_zdawalnosc',
         'PPP_liczba_zdajacych', 'PPP_liczba_laureatow', 'PPP_zdawalnosc',
@@ -384,7 +385,7 @@ def pivot_by_year(df):
     df = df.rename(columns={col: col.replace('PPP_', 'polski_') for col in df.columns if col.startswith('PPP_')})
     
     # Kolumny identyfikacyjne
-    id_cols = ['nazwa_szkoly', 'ulica_nr', 'numer_budynku', 'numer_lokalu', 'kod_pocztowy',
+    id_cols = ['nazwa_szkoly', 'pelna_nazwa_szkoly', 'ulica_nr', 'numer_budynku', 'numer_lokalu', 'kod_pocztowy',
                'wojewodztwo', 'powiat', 'gmina', 'typ_gminy', 'kod_teryt_gminy', 'miejscowosc', 
                'rodzaj_miejscowości', 'typ_placowki', 'rodzaj_placowki', 'czy_publiczna', 'publicznosc_status',
                'kategoria_uczniow', 'specyfika_placowki', 'data_zalozenia', 'data_rozpoczecia_dzialalnosci',
@@ -420,7 +421,7 @@ def pivot_by_year(df):
     
     # Organizacja kolumn
     # 1. metadane
-    metadata_cols = ['RSPO', 'nazwa_szkoly', 'publicznosc_status', 'wojewodztwo', 'powiat', 'gmina', 
+    metadata_cols = ['RSPO', 'nazwa_szkoly', 'pelna_nazwa_szkoly', 'publicznosc_status', 'wojewodztwo', 'powiat', 'gmina',
                      'typ_gminy', 'miejscowosc', 'rodzaj_miejscowości', 'ulica_nr', 'numer_budynku', 
                      'kod_pocztowy']
     metadata_cols = [col for col in metadata_cols if col in result_df.columns]

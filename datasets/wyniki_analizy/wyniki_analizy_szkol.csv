@@ -1,287 +1,278 @@
 ﻿RSPO;nazwa_szkoly;miejscowosc;wojewodztwo;publicznosc_status;prog;wynik;zdawalnosc;n_zdajacych;res_prog_wynik;res_wynik_zdaw;outlier_score;grupa;kategoria_uczniow;typ_gminy;liczba_uczniow
-2982;loswjadwigikrolowejwkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;142.8625;75.30434783;100.0;69.0;5.409999490717539;;;Srodek;Dzieci lub młodzież;gmina miejska;312.0
-3099;lo;szczecin;ZACHODNIOPOMORSKIE;publiczna;106.40625;64.9375;89.58333333;48.0;2.0747404798697318;;;Srodek;Dzieci lub młodzież;gmina miejska;415.0
-3620;xlogdynskichnauczycielibohaterowiiwojnyswiatowej;gdynia;POMORSKIE;publiczna;160.87142857142857;76.43478261;100.0;93.0;3.0669179110325047;;;Srodek;Dzieci lub młodzież;gmina miejska;474.0
-3640;vilowaclawasierpinskiego;gdynia;POMORSKIE;publiczna;168.16875;76.40983607;100.0;123.0;1.634482565494281;;;Srodek;Dzieci lub młodzież;gmina miejska;572.0
-3893;iiilomikolajakopernika;szczecin;ZACHODNIOPOMORSKIE;publiczna;117.43333333333334;70.71153846;100.0;52.0;5.721903140122734;;;Srodek;Dzieci lub młodzież;gmina miejska;513.0
-3904;viiiloolimpijczykowpolskich;szczecin;ZACHODNIOPOMORSKIE;publiczna;103.475;56.86842105;89.47368421;38.0;-5.428966422096259;;;Srodek;Dzieci lub młodzież;gmina miejska;330.0
-3957;ixlomarszalkajozefapilsudskiego;gdynia;POMORSKIE;publiczna;148.45000000000002;69.54597701;99.42528736;174.0;-1.4260741244688262;;;Srodek;Dzieci lub młodzież;gmina miejska;719.0
-3963;ilomsklodowskiejcurie;szczecin;ZACHODNIOPOMORSKIE;publiczna;154.68333333333334;73.67613636;100.0;177.0;1.5018157388803246;;;Srodek;Dzieci lub młodzież;gmina miejska;1036.0
-3966;vilostefanaczarnieckiego;szczecin;ZACHODNIOPOMORSKIE;publiczna;149.27499999999998;74.90217391;100.0;92.0;3.77099887288621;;;Srodek;Dzieci lub młodzież;gmina miejska;652.0
-3974;xvlortmwitoldapileckiego;katowice;ŚLĄSKIE;publiczna;61.4;51.27272727;66.66666667;33.0;-2.9093411672029816;;;Srodek;Dzieci lub młodzież;gmina miejska;269.0
-4043;iiilocyprianakamilanorwidawkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;143.8;66.85638298;99.46808511;188.0;-3.218787975924471;;;Srodek;Dzieci lub młodzież;gmina miejska;852.0
-4045;iakademickielozasluzonychludzimorza;gdynia;POMORSKIE;publiczna;155.17857142857142;69.96521739;100.0;115.0;-2.3046234959108745;;;Srodek;Dzieci lub młodzież;gmina miejska;513.0
-4435;xlokomisjiedukacjinarodowejwkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;168.6916666666667;74.50847458;100.0;177.0;-0.3677377617882627;;;Srodek;Dzieci lub młodzież;gmina miejska;758.0
-4577;vilojuliuszaslowackiegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;159.6;73.18954248;100.0;153.0;0.06690769160223908;;;Srodek;Dzieci lub młodzież;gmina miejska;1058.0
-4648;xvilokrzysztofakamilabaczynskiegowkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;105.49;65.80530973;91.15044248;113.0;3.119274180534518;;;Srodek;Dzieci lub młodzież;gmina miejska;510.0
-4735;vloaugustawitkowskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;180.08125;82.34375;100.0;226.0;5.2707437800298464;;;Srodek;Dzieci lub młodzież;gmina miejska;948.0
-4748;vlokspiotrasciegiennegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;137.475;64.99350649;99.35064935;154.0;-3.861714545646393;;;Srodek;Dzieci lub młodzież;gmina miejska;852.0
-4881;ixlozygmuntawroblewskiegowkrakowie;krakow krowodrza;MAŁOPOLSKIE;publiczna;163.3625;67.58730159;100.0;126.0;-6.261034633187691;;;Srodek;Dzieci lub młodzież;gmina miejska;493.0
-5366;ivlocyprianakamilanorwidawbialymstoku;bialystok;PODLASKIE;publiczna;131.93055555555554;69.82743363;99.11504425;226.0;2.0416109434423504;;;Srodek;Dzieci lub młodzież;gmina miejska;987.0
-5448;iilojanasniadeckiegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;161.82857142857142;73.1773399;100.0;203.0;-0.37513607995818177;;;Srodek;Dzieci lub młodzież;gmina miejska;1099.0
-5449;iiiloadamamickiewicza;katowice;ŚLĄSKIE;publiczna;149.96666666666667;77.09655172;100.0;145.0;5.831969774608098;;;Srodek;Dzieci lub młodzież;gmina miejska;760.0
-5668;ivlogeneralastanislawamaczka;katowice;ŚLĄSKIE;publiczna;144.57999999999998;68.94160584;100.0;137.0;-1.2840095329706287;;;Srodek;Dzieci lub młodzież;gmina miejska;533.0
-5738;vlowladyslawabroniewskiego;katowice;ŚLĄSKIE;publiczna;106.55;68.97826087;80.43478261;47.0;6.087775215317954;;;Srodek;Dzieci lub młodzież;gmina miejska;161.0
-5756;ilostefanazeromskiegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;155.225;73.82105263;100.0;190.0;1.542256719264941;;;Srodek;Dzieci lub młodzież;gmina miejska;825.0
-6934;xvlozjednoczonejeuropywgdansku;gdansk;POMORSKIE;publiczna;148.45714285714286;63.24503311;100.0;152.0;-7.728395720595621;;;Maruderzy;Dzieci lub młodzież;gmina miejska;878.0
-6954;xixlomarianamokwywgdansku;gdansk;POMORSKIE;publiczna;158.52857142857144;71.56862745;99.35897436;156.0;-1.3473529193783378;;;Srodek;Dzieci lub młodzież;gmina miejska;634.0
-7000;vloadamaasnyka;szczecin;ZACHODNIOPOMORSKIE;publiczna;171.4625;79.6484375;100.0;128.0;4.237793869025367;;;Srodek;Dzieci lub młodzież;gmina miejska;608.0
-7051;vlostefanazeromskiegowgdansku;gdansk;POMORSKIE;publiczna;171.58714285714288;75.46478873;100.0;142.0;0.03010430161276645;;;Srodek;Dzieci lub młodzież;gmina miejska;564.0
-7099;ogolnoksztalcacych13iiilobohaterowwesterplattewgdansku;gdansk;POMORSKIE;publiczna;167.43333333333334;75.13186813;100.0;91.0;0.49835992254902806;;;Srodek;Dzieci lub młodzież;gmina miejska;697.0
-7670;ilomikolajakopernika;torun;KUJAWSKO-POMORSKIE;publiczna;164.34;77.95597484;100.0;159.0;3.919100901860247;;;Srodek;Dzieci lub młodzież;gmina miejska;731.0
-7709;xxviiilowojciechabednarskiegowkrakowie;krakow podgorze;MAŁOPOLSKIE;publiczna;146.5125;61.8989899;97.0;100.0;-8.699361160075348;;;Maruderzy;Dzieci lub młodzież;gmina miejska;415.0
-7713;ilobartlomiejanowodworskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;173.02857142857144;79.13114754;99.45652174;184.0;3.418444033225285;;;Srodek;Dzieci lub młodzież;gmina miejska;824.0
-7753;ilomikolajakopernikawgdansku;gdansk;POMORSKIE;publiczna;168.86;73.72592593;100.0;135.0;-1.1827541171764153;;;Srodek;Dzieci lub młodzież;gmina miejska;660.0
-7863;xlojozefawybickiego;kielce;ŚWIĘTOKRZYSKIE;publiczna;146.3;53.71428571;88.31168831;77.0;-16.84307889030316;;;Maruderzy;Dzieci lub młodzież;gmina miejska;672.0
-7983;xxilo;gdansk;POMORSKIE;publiczna;86.4375;55.25423729;90.0;60.0;-3.757000495655518;;;Srodek;Dzieci lub młodzież;gmina miejska;454.0
-8286;ivlotadeuszakosciuszkiwkrakowie;krakow podgorze;MAŁOPOLSKIE;publiczna;169.9857142857143;73.54135338;100.0;133.0;-1.5844515767595055;;;Srodek;Dzieci lub młodzież;gmina miejska;769.0
-8461;iiilosamuelabogumilalindego;torun;KUJAWSKO-POMORSKIE;publiczna;111.075;66.46621622;94.55782313;148.0;2.702960068992539;;;Srodek;Dzieci lub młodzież;gmina miejska;826.0
-8576;viilokkbaczynskiego;szczecin;ZACHODNIOPOMORSKIE;publiczna;97.5;66.3125;92.5;80.0;5.167555337968793;;;Srodek;Dzieci lub młodzież;gmina miejska;590.0
-8771;vlojanapawlaii;torun;KUJAWSKO-POMORSKIE;publiczna;155.7625;70.25;100.0;184.0;-2.13246754427648;;;Srodek;Dzieci lub młodzież;gmina miejska;625.0
-8796;viilowandyszuman;torun;KUJAWSKO-POMORSKIE;publiczna;99.925;54.78504673;94.39252336;107.0;-6.82762576707853;;;Srodek;Dzieci lub młodzież;gmina miejska;436.0
-8803;ixlokazimierzajagielonczyka;torun;KUJAWSKO-POMORSKIE;publiczna;115.775;62.78;96.96969697;100.0;-1.8897802024393968;;;Srodek;Dzieci lub młodzież;gmina miejska;791.0
-9283;iloksstanislawakonarskiegowrzeszowie;rzeszow;PODKARPACKIE;publiczna;163.975;75.21019108;100.0;157.0;1.2437174139395353;;;Srodek;Dzieci lub młodzież;gmina miejska;771.0
-9686;iiilojanakochanowskiegowkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;166.35;74.17307692;99.35897436;156.0;-0.25148070822021396;;;Srodek;Dzieci lub młodzież;gmina miejska;744.0
-10812;vilojanadlugosza;katowice;ŚLĄSKIE;publiczna;68.65;61.0;77.27272727;22.0;5.419569994098836;;;Srodek;Dzieci lub młodzież;gmina miejska;360.0
-10830;viiloharcerzyobroncowkatowice;katowice;ŚLĄSKIE;publiczna;117.68333333333332;74.08450704;94.36619718;71.0;9.046652355684884;;;Liderzy;Dzieci lub młodzież;gmina miejska;522.0
-10840;viiilomariisklodowskiejcurie;katowice;ŚLĄSKIE;publiczna;139.79999999999998;71.50909091;99.39393939;165.0;2.205429785081435;;;Srodek;Dzieci lub młodzież;gmina miejska;599.0
-11182;viiilokomisjiedukacjinarodowejwgdansku;gdansk;POMORSKIE;publiczna;164.40833333333333;71.65714286;100.0;140.0;-2.392911037752782;;;Srodek;Dzieci lub młodzież;gmina miejska;568.0
-11305;xviiilojozefawybickiego;szczecin;ZACHODNIOPOMORSKIE;publiczna;74.5875;65.16393443;95.08196721;61.0;8.43829451869945;;;Liderzy;Dzieci lub młodzież;gmina miejska;473.0
-11472;loidanutysiedzikownyinki;wroclaw srodmiescie;DOLNOŚLĄSKIE;publiczna;145.98333333333332;73.23484848;100.0;132.0;2.7385617413181507;;;Srodek;Dzieci lub młodzież;gmina miejska;908.0
-11473;loxiiboleslawachrobrego;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;165.79500000000002;74.38383838;100.0;198.0;0.06632774083185211;;;Srodek;Dzieci lub młodzież;gmina miejska;1092.0
-11474;loiiiadamamickiewicza;wroclaw srodmiescie;DOLNOŚLĄSKIE;publiczna;172.76;74.96575342;100.0;147.0;-0.6951487124071605;;;Srodek;Dzieci lub młodzież;gmina miejska;608.0
-11475;loivstefanazeromskiego;wroclaw krzyki;DOLNOŚLĄSKIE;publiczna;154.29444444444445;66.76056338;100.0;142.0;-5.3387493408830125;;;Srodek;Dzieci lub młodzież;gmina miejska;958.0
-11476;loviboleslawaprusa;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;157.07999999999998;70.58196721;99.18699187;123.0;-2.0546163848640475;;;Srodek;Dzieci lub młodzież;gmina miejska;628.0
-11477;loviikrzysztofakamilabaczynskiego;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;163.68333333333334;71.28178694;100.0;291.0;-2.6284308008829527;;;Srodek;Dzieci lub młodzież;gmina miejska;1405.0
-11478;loviiiboleslawakrzywoustego;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;166.865;81.17613636;100.0;176.0;6.65224684103778;;;Srodek;Dzieci lub młodzież;gmina miejska;1008.0
-11479;loxstefaniisempolowskiej;wroclaw psie pole;DOLNOŚLĄSKIE;publiczna;150.15;66.94886364;99.43181818;176.0;-4.351079172646337;;;Srodek;Dzieci lub młodzież;gmina miejska;1112.0
-11480;loxvmjrpiotrawysockiego;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;111.75714285714284;57.50980392;88.0794702;153.0;-6.3850222111165;;;Srodek;Dzieci lub młodzież;gmina miejska;1233.0
-11481;loxviiagnieszkiosieckiej;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;143.61666666666667;71.75595238;100.0;168.0;1.7161422913299589;;;Srodek;Dzieci lub młodzież;gmina miejska;864.0
-11589;xxvlojozefawybickiego;wawer;MAZOWIECKIE;publiczna;154.61999999999998;67.37962963;99.07407407;108.0;-4.782475418795414;;;Srodek;Dzieci lub młodzież;gmina miejska;658.0
-11761;viiilokrolakazimierzawielkiegowbialymstoku;bialystok;PODLASKIE;publiczna;148.58076923076922;64.07486631;99.46524064;187.0;-6.922407261251706;;;Srodek;Dzieci lub młodzież;gmina miejska;878.0
-11780;viilonauczycielitajnegonauczaniawbialymstoku;bialystok;PODLASKIE;publiczna;118.8777777777778;64.31176471;94.11764706;170.0;-0.9564713821849438;;;Srodek;Dzieci lub młodzież;gmina miejska;765.0
-11972;xilorotmistrzawitoldapileckiegowbialymstoku;bialystok;PODLASKIE;publiczna;153.92000000000002;66.38297872;100.0;141.0;-5.644112108369399;;;Srodek;Dzieci lub młodzież;gmina miejska;785.0
-12059;xiilowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;81.975;51.95;85.0;20.0;-6.200522130439559;;;Srodek;Dzieci lub młodzież;gmina miejska;162.0
-12091;xiiilowbialymstokuzespoluszkologolnoksztalcacych1wbialymstoku;bialystok;PODLASKIE;publiczna;59.116666666666674;52.10869565;91.30434783;47.0;-1.6329692586704425;;;Srodek;Dzieci lub młodzież;gmina miejska;327.0
-12098;xivloryszardakaczorowskiegowbialymstoku;bialystok;PODLASKIE;publiczna;84.36;47.56363636;81.81818182;110.0;-11.046898507176827;;;Maruderzy;Dzieci lub młodzież;gmina miejska;547.0
-12144;xiilo;rzeszow;PODKARPACKIE;publiczna;85.86666666666667;60.53333333;86.66666667;15.0;1.6321964264776128;;;Srodek;Dzieci lub młodzież;gmina miejska;271.0
-12494;ilocyprianakamilanorwidawbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;154.61666666666667;72.43888889;99.44444444;180.0;0.2774267660637548;;;Srodek;Dzieci lub młodzież;gmina miejska;794.0
-12707;vilojanaijedrzejasniadeckichwbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;133.50833333333333;74.55782313;100.0;147.0;6.467682676767794;;;Srodek;Dzieci lub młodzież;gmina miejska;724.0
-12719;viilojanuszakusocinskiegowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;135.9;66.90654206;100.0;107.0;-1.6448969796878146;;;Srodek;Dzieci lub młodzież;gmina miejska;508.0
-12941;xxilosynowpulkowintegracyjnewbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;31.4;47.8125;87.5;16.0;-0.5832447046587461;;;Srodek;Dzieci lub młodzież;gmina miejska;129.0
-13413;xiilo;szczecin;ZACHODNIOPOMORSKIE;publiczna;162.15;69.43589744;97.43589744;78.0;-4.178574865664018;;;Srodek;Dzieci lub młodzież;gmina miejska;345.0
-13671;iiilomikolajakopernikawolsztynie;olsztyn;WARMIŃSKO-MAZURSKIE;publiczna;99.875;54.61956522;100.0;92.0;-6.983463404190957;;;Maruderzy;Dzieci lub młodzież;gmina miejska;455.0
-13676;lo;szczecin;ZACHODNIOPOMORSKIE;publiczna;106.40625;78.0;94.44444444;18.0;15.137240479869732;;;Liderzy;Dzieci lub młodzież;gmina miejska;250.0
-13730;lo;szczecin;ZACHODNIOPOMORSKIE;publiczna;106.40625;53.51724138;89.28571429;29.0;-9.345518140130267;;;Maruderzy;Dzieci lub młodzież;gmina miejska;211.0
-13768;viiilodraemilawarminskiegowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;115.49;63.40277778;97.24137931;145.0;-1.21203234698023;;;Srodek;Dzieci lub młodzież;gmina miejska;760.0
-14520;viiilostanislawawyspianskiego;rzeszow;PODKARPACKIE;publiczna;105.42;63.81707317;93.90243902;82.0;1.1445390425771222;;;Srodek;Dzieci lub młodzież;gmina miejska;833.0
-15300;ogolnoksztalcacych8wgdanskuxivlojanapawlaii;gdansk;POMORSKIE;publiczna;135.45000000000002;64.83333333;94.87179487;79.0;-3.6313108536996594;;;Srodek;Dzieci lub młodzież;gmina miejska;591.0
-15718;ixlobohaterowmontecassino;szczecin;ZACHODNIOPOMORSKIE;publiczna;151.88333333333333;81.17297297;100.0;185.0;9.538709230584445;;;Liderzy;Dzieci lub młodzież;gmina miejska;856.0
-15721;xiiilo;szczecin;ZACHODNIOPOMORSKIE;publiczna;162.15;79.76470588;100.0;102.0;6.150233574335971;;;Srodek;Dzieci lub młodzież;gmina miejska;346.0
-16275;iiloplkleopoldalisakuli;rzeszow;PODKARPACKIE;publiczna;152.59166666666667;74.78927203;100.0;261.0;3.018386758010493;;;Srodek;Dzieci lub młodzież;gmina miejska;992.0
-16276;ivlomikolajakopernika;rzeszow;PODKARPACKIE;publiczna;148.45625;67.94158076;99.65753425;292.0;-3.0316758585797743;;;Srodek;Dzieci lub młodzież;gmina miejska;1088.0
-16422;iiilogenjozefasowinskiego;wola;MAZOWIECKIE;publiczna;155.31666666666666;67.65972222;99.30555556;145.0;-4.63675412436227;;;Srodek;Dzieci lub młodzież;gmina miejska;831.0
-16423;xiilohenrykasienkiewicza;wola;MAZOWIECKIE;publiczna;162.1875;74.39495798;100.0;119.0;0.7732527696702931;;;Srodek;Dzieci lub młodzież;gmina miejska;581.0
-16424;xxivlocyprianakamilanorwida;wola;MAZOWIECKIE;publiczna;157.24375;75.61688312;99.35064935;154.0;2.9487158414291486;;;Srodek;Dzieci lub młodzież;gmina miejska;723.0
-16425;xxxlojanasniadeckiego;wola;MAZOWIECKIE;publiczna;161.00333333333333;75.13385827;100.0;127.0;1.7405521158910062;;;Srodek;Dzieci lub młodzież;gmina miejska;823.0
-16426;xllostefanazeromskiego;wola;MAZOWIECKIE;publiczna;173.3766666666667;82.76470588;100.0;153.0;6.984862648646086;;;Liderzy;Dzieci lub młodzież;gmina miejska;723.0
-16427;xlvloromualdatraugutta;wola;MAZOWIECKIE;publiczna;134.21249999999998;67.93333333;98.33333333;60.0;-0.2926249997322117;;;Srodek;Dzieci lub młodzież;gmina miejska;548.0
-16428;lxxxvilobatalionuzoska;wola;MAZOWIECKIE;publiczna;134.95;64.51136364;100.0;88.0;-3.856841814823923;;;Srodek;Dzieci lub młodzież;gmina miejska;530.0
-16429;cxixlojackakuronia;wola;MAZOWIECKIE;publiczna;146.60625;75.40243902;100.0;82.0;4.786005698260453;;;Srodek;Dzieci lub młodzież;gmina miejska;503.0
-17601;ogolnoksztalcacych10eugeniuszakwiatkowskiegowgdanskuxxiiilo;gdansk;POMORSKIE;publiczna;98.23333333333332;52.0;85.71428571;28.0;-9.286388131048952;;;Maruderzy;Dzieci lub młodzież;gmina miejska;295.0
-17874;iiiloproftadeuszakotarbinskiegowzielonejgorze;zielona gora;LUBUSKIE;publiczna;146.1125;75.41666667;100.0;132.0;4.8954665930252474;;;Srodek;Dzieci lub młodzież;gmina miejska;689.0
-17878;iiogolnoksztalcaceliceumekologiczneuniieuropejskiejwzespoleszkolekologicznychwzielonejgorze;zielona gora;LUBUSKIE;publiczna;125.39166666666668;66.8961039;97.4025974;77.0;0.37148547885058747;;;Srodek;Dzieci lub młodzież;gmina miejska;542.0
-18119;viilo;rzeszow;PODKARPACKIE;publiczna;90.9;52.0625;93.75;16.0;-7.809453440871472;;;Maruderzy;Dzieci lub młodzież;gmina miejska;231.0
-18356;ogolnoksztalcacych5ivlomarynarzywojskochronypograniczawgdansku;gdansk;POMORSKIE;publiczna;104.285;58.49152542;84.03361345;119.0;-3.962092792874955;;;Srodek;Dzieci lub młodzież;gmina miejska;748.0
-18457;ivlokazimierzawielkiegowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;152.6;72.68456376;100.0;149.0;0.9120711758625646;;;Srodek;Dzieci lub młodzież;gmina miejska;602.0
-18579;ogolnoksztalcacych6vilowgdansku;gdansk;POMORSKIE;publiczna;125.05;60.10909091;90.90909091;110.0;-6.349627713084324;;;Srodek;Dzieci lub młodzież;gmina miejska;699.0
-18789;lxiiilolajosakossutha;ursynow;MAZOWIECKIE;publiczna;147.13125;76.3;100.0;112.0;5.582306012940933;;;Srodek;Dzieci lub młodzież;gmina miejska;606.0
-18942;xivlogomikolajakopernikawgdyni;gdynia;POMORSKIE;publiczna;158.2125;69.4173913;100.0;115.0;-3.4376260157675915;;;Srodek;Dzieci lub młodzież;gmina miejska;642.0
-19063;iilomieszkai;szczecin;ZACHODNIOPOMORSKIE;publiczna;176.04;79.95263158;100.0;190.0;3.659091386168001;;;Srodek;Dzieci lub młodzież;gmina miejska;854.0
-19073;lxxloaleksandrakaminskiego;ursynow;MAZOWIECKIE;publiczna;166.98;80.125;100.0;120.0;5.578929573396351;;;Srodek;Dzieci lub młodzież;gmina miejska;655.0
-20087;viilozofiinalkowskiejwkrakowie;krakow krowodrza;MAŁOPOLSKIE;publiczna;169.3857142857143;68.6;100.0;160.0;-6.410078482108631;;;Srodek;Dzieci lub młodzież;gmina miejska;714.0
-20395;xxloboleslawachrobregowwarszawie;praga polnoc;MAZOWIECKIE;publiczna;102.075;49.63636364;90.90909091;22.0;-12.390995391244203;;;Maruderzy;Dzieci lub młodzież;gmina miejska;287.0
-20413;viloadamamickiewiczawkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;171.8777777777778;77.61674009;100.0;228.0;2.125998736986901;;;Srodek;Dzieci lub młodzież;gmina miejska;1007.0
-20433;viiilostanislawawyspianskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;173.82857142857142;81.3172043;100.0;186.0;5.450198827024124;;;Srodek;Dzieci lub młodzież;gmina miejska;861.0
-20580;cxxvlowaldemaramilewicza;wola;MAZOWIECKIE;publiczna;102.3625;63.98214286;87.5;56.0;1.8993315596522606;;;Srodek;Dzieci lub młodzież;gmina miejska;435.0
-21092;lxxvilomarszalkajozefapilsudskiego;praga polnoc;MAZOWIECKIE;publiczna;118.20833333333331;60.80869565;93.91304348;115.0;-4.330419699634653;;;Srodek;Dzieci lub młodzież;gmina miejska;735.0
-21317;xxviilodrhenrykajordanawkrakowie;krakow krowodrza;MAŁOPOLSKIE;publiczna;161.75833333333333;68.3877551;100.0;98.0;-5.151173534711361;;;Srodek;Dzieci lub młodzież;gmina miejska;869.0
-22517;ilomikolajakopernika;lodz polesie;ŁÓDZKIE;publiczna;163.24;74.44761905;100.0;105.0;0.6229103153868749;;;Srodek;Dzieci lub młodzież;gmina miejska;525.0
-22518;iilogabrielanarutowicza;lodz widzew;ŁÓDZKIE;publiczna;107.08333333333331;72.64285714;100.0;70.0;9.649503507850511;;;Liderzy;Dzieci lub młodzież;gmina miejska;494.0
-22519;iiilotadeuszakosciuszki;lodz srodmiescie;ŁÓDZKIE;publiczna;156.15;71.6509434;100.0;106.0;-0.8062641591551767;;;Srodek;Dzieci lub młodzież;gmina miejska;501.0
-22521;ivloemiliisczanieckiej;lodz srodmiescie;ŁÓDZKIE;publiczna;145.8357142857143;64.95505618;98.87640449;89.0;-5.512758172061396;;;Srodek;Dzieci lub młodzież;gmina miejska;580.0
-22522;vilojoachimalelewela;lodz gorna;ŁÓDZKIE;publiczna;106.67;60.89361702;96.80851064;94.0;-2.020013929612226;;;Srodek;Dzieci lub młodzież;gmina miejska;639.0
-22523;viiiloadamaasnyka;lodz srodmiescie;ŁÓDZKIE;publiczna;134.42000000000002;71.8;100.0;90.0;3.5340195977843507;;;Srodek;Dzieci lub młodzież;gmina miejska;625.0
-22524;ixlojaroslawadabrowskiego;lodz gorna;ŁÓDZKIE;publiczna;97.375;64.45205479;98.63013699;73.0;3.331219810187733;;;Srodek;Dzieci lub młodzież;gmina miejska;550.0
-22525;xiilostanislawawyspianskiego;lodz srodmiescie;ŁÓDZKIE;publiczna;138.6875;77.05263158;100.0;114.0;7.963546626829938;;;Liderzy;Dzieci lub młodzież;gmina miejska;481.0
-22574;xlokrolowejjadwigi;mokotow;MAZOWIECKIE;publiczna;159.8;70.35789474;100.0;95.0;-2.803315539948059;;;Srodek;Dzieci lub młodzież;gmina miejska;668.0
-22592;xxviiilojanakochanowskiego;mokotow;MAZOWIECKIE;publiczna;170.985;81.3740458;100.0;132.0;6.055501155101695;;;Srodek;Dzieci lub młodzież;gmina miejska;760.0
-22778;xxxivlomigueladecervantesa;mokotow;MAZOWIECKIE;publiczna;181.475;81.01526718;100.0;131.0;3.6734380032887373;;;Srodek;Dzieci lub młodzież;gmina miejska;727.0
-22856;xliilomariikonopnickiej;mokotow;MAZOWIECKIE;publiczna;141.52;71.26724138;99.13793103;116.0;1.6318310277488877;;;Srodek;Dzieci lub młodzież;gmina miejska;660.0
-22872;vilo;rzeszow;PODKARPACKIE;publiczna;90.9;64.85603113;100.0;258.0;4.984077689128533;;;Srodek;Dzieci lub młodzież;gmina miejska;1240.0
-22897;xlivlostefanabanacha;mokotow;MAZOWIECKIE;publiczna;154.245;69.52419355;98.4;125.0;-2.5655824521386137;;;Srodek;Dzieci lub młodzież;gmina miejska;685.0
-22922;xlixlojohannawolfgangagoethego;mokotow;MAZOWIECKIE;publiczna;145.99166666666667;65.52475248;100.0;101.0;-4.973141570829782;;;Srodek;Dzieci lub młodzież;gmina miejska;680.0
-22927;lxxxiloaleksandrafredry;srodmiescie;MAZOWIECKIE;publiczna;164.51666666666668;77.18095238;100.0;105.0;3.110003424324148;;;Srodek;Dzieci lub młodzież;gmina miejska;537.0
-22932;lxvlogenjozefabema;mokotow;MAZOWIECKIE;publiczna;136.985;74.13131313;100.0;99.0;5.3706020486518184;;;Srodek;Dzieci lub młodzież;gmina miejska;466.0
-23199;iiloadamamickiewicza;gdynia;POMORSKIE;publiczna;165.38333333333333;72.88888889;100.0;180.0;-1.3492205290604602;;;Srodek;Dzieci lub młodzież;gmina miejska;797.0
-23486;xxiilojosémartí;bielany;MAZOWIECKIE;publiczna;174.3166666666667;79.35333333;100.0;150.0;3.3921852883596983;;;Srodek;Dzieci lub młodzież;gmina miejska;680.0
-23747;xivlomjrhenrykasucharskiego;katowice;ŚLĄSKIE;publiczna;51.825;53.65306122;93.87755102;49.0;1.3177944407673863;;;Srodek;Dzieci lub młodzież;gmina miejska;413.0
-24345;xliiilokazimierzawielkiego;mokotow;MAZOWIECKIE;publiczna;156.075;71.17647059;96.63865546;119.0;-1.266271159823816;;;Srodek;Dzieci lub młodzież;gmina miejska;728.0
-24346;lxviiilotytusachalubinskiego;mokotow;MAZOWIECKIE;publiczna;120.41666666666669;57.40659341;85.39325843;91.0;-8.158459658835824;;;Maruderzy;Dzieci lub młodzież;gmina miejska;567.0
-24373;xlo;rzeszow;PODKARPACKIE;publiczna;53.025;36.57894737;78.94736842;19.0;-15.987772358534379;;;Maruderzy;Dzieci lub młodzież;gmina miejska;259.0
-24585;cxilostefanakisielewskiego;praga poludnie;MAZOWIECKIE;publiczna;103.4;49.96551724;53.57142857;29.0;-12.317404422764909;;;Maruderzy;Dzieci lub młodzież;gmina miejska;303.0
-25173;xciilo;wola;MAZOWIECKIE;publiczna;100.7;64.11428571;91.17647059;35.0;2.352133183164085;;;Srodek;Dzieci lub młodzież;gmina miejska;322.0
-25220;xloprofstefanabanacha;torun;KUJAWSKO-POMORSKIE;publiczna;178.3857142857143;71.73846154;100.0;195.0;-5.007514061871888;;;Srodek;Dzieci lub młodzież;gmina miejska;995.0
-25263;viilojuliuszaslowackiegowwarszawie;ochota;MAZOWIECKIE;publiczna;172.3;82.83687943;100.0;141.0;7.264700928158504;;;Liderzy;Dzieci lub młodzież;gmina miejska;626.0
-25265;xcviiloolimpijczykowpolskich;praga poludnie;MAZOWIECKIE;publiczna;105.75;68.6;93.33333333;15.0;5.86381631151913;;;Srodek;Dzieci lub młodzież;gmina miejska;217.0
-25290;xiiilomariipiotrowiczowej;lodz baluty;ŁÓDZKIE;publiczna;139.86;64.82692308;100.0;104.0;-4.4883106923836635;;;Srodek;Dzieci lub młodzież;gmina miejska;543.0
-25291;xvlojanakasprowicza;lodz baluty;ŁÓDZKIE;publiczna;133.95000000000002;67.70512821;98.73417722;79.0;-0.4701997870724455;;;Srodek;Dzieci lub młodzież;gmina miejska;515.0
-25292;xviiilojedrzejasniadeckiego;lodz polesie;ŁÓDZKIE;publiczna;58.73333333333333;55.19298246;71.42857143;57.0;1.525253910134289;;;Srodek;Dzieci lub młodzież;gmina miejska;456.0
-25350;xxiloboleslawaprusa;lodz polesie;ŁÓDZKIE;publiczna;153.20999999999998;77.22641509;100.0;106.0;5.336267256634173;;;Srodek;Dzieci lub młodzież;gmina miejska;551.0
-25360;xxvlostefanazeromskiego;lodz gorna;ŁÓDZKIE;publiczna;148.92000000000002;69.38815789;100.0;152.0;-1.6745456496120141;;;Srodek;Dzieci lub młodzież;gmina miejska;543.0
-25401;xxiiiloksprofjozefatischnera;lodz widzew;ŁÓDZKIE;publiczna;66.33333333333333;56.42372881;98.30508475;59.0;1.2901315812230862;;;Srodek;Dzieci lub młodzież;gmina miejska;555.0
-25406;xlviiiloedwardadembowskiegowwarszawie;ochota;MAZOWIECKIE;publiczna;153.51;76.46938776;100.0;98.0;4.521376689308724;;;Srodek;Dzieci lub młodzież;gmina miejska;637.0
-25407;xxxvloboleslawaprusa;praga poludnie;MAZOWIECKIE;publiczna;174.1457142857143;74.75892857;100.0;112.0;-1.1692466110056472;;;Srodek;Dzieci lub młodzież;gmina miejska;909.0
-25439;xxxloksbpignacegokrasickiego;lodz baluty;ŁÓDZKIE;publiczna;95.88333333333333;55.20253165;94.93670886;79.0;-5.630594455332982;;;Srodek;Dzieci lub młodzież;gmina miejska;449.0
-25441;xxxiloludwikazamenhofa;lodz gorna;ŁÓDZKIE;publiczna;134.6222222222222;70.85815603;100.0;141.0;2.5531715196612907;;;Srodek;Dzieci lub młodzież;gmina miejska;648.0
-25443;xxxiiiloarmiikrajowej;lodz polesie;ŁÓDZKIE;publiczna;135.14;70.75630252;100.0;120.0;2.3514503482033007;;;Srodek;Dzieci lub młodzież;gmina miejska;671.0
-25445;xxlojuliuszaslowackiego;lodz gorna;ŁÓDZKIE;publiczna;94.38333333333333;61.48484848;98.48484848;66.0;0.9410385612942207;;;Srodek;Dzieci lub młodzież;gmina miejska;578.0
-25446;xxivlomariisklodowskiejcurie;lodz baluty;ŁÓDZKIE;publiczna;97.37;59.36111111;91.66666667;72.0;-1.7587594825235087;;;Srodek;Dzieci lub młodzież;gmina miejska;489.0
-25507;xxxiloromanaingardenawkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;152.275;54.28888889;100.0;45.0;-17.42091852036821;;;Maruderzy;Dzieci lub młodzież;gmina miejska;243.0
-25627;xxxivlokrzysztofakieslowskiego;lodz polesie;ŁÓDZKIE;publiczna;72.4375;60.21311475;93.44262295;61.0;3.902161372865123;;;Srodek;Dzieci lub młodzież;gmina miejska;386.0
-25632;xxvilojulianatuwima;wawer;MAZOWIECKIE;publiczna;121.5625;58.40425532;100.0;47.0;-7.3818031691760595;;;Maruderzy;Dzieci lub młodzież;gmina miejska;513.0
-25682;vloksjozefaponiatowskiego;srodmiescie;MAZOWIECKIE;publiczna;174.55000000000004;77.12408759;100.0;137.0;1.1179348082176972;;;Srodek;Dzieci lub młodzież;gmina miejska;562.0
-25697;vloplkstanislawadabka;gdynia;POMORSKIE;publiczna;134.2875;57.41666667;92.77108434;84.0;-10.823757469063565;;;Maruderzy;Dzieci lub młodzież;gmina miejska;553.0
-25801;xivlostanislawastaszicawwarszawie;ochota;MAZOWIECKIE;publiczna;241.27857142857144;80.33862434;100.0;190.0;-8.537965658312842;;;Maruderzy;Dzieci lub młodzież;gmina miejska;873.0
-25877;xvlomariisklodowskiejcuriewkrakowie;krakow podgorze;MAŁOPOLSKIE;publiczna;146.725;67.85840708;98.2300885;113.0;-2.7809304398475234;;;Srodek;Dzieci lub młodzież;gmina miejska;732.0
-25956;xxviilotadeuszaczackiego;srodmiescie;MAZOWIECKIE;publiczna;179.4;82.0;100.0;113.0;5.058391548123041;;;Srodek;Dzieci lub młodzież;gmina miejska;567.0
-27081;iilokrolajanaiiisobieskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;172.0125;78.89090909;100.0;220.0;3.3741828572620562;;;Srodek;Dzieci lub młodzież;gmina miejska;1008.0
-27158;lixlojanuszakusocinskiego;bielany;MAZOWIECKIE;publiczna;111.60789473684213;58.19230769;89.92248062;130.0;-5.6737318430987145;;;Srodek;Dzieci lub młodzież;gmina miejska;705.0
-27280;lxlowojciechagorskiego;bielany;MAZOWIECKIE;publiczna;123.6;56.0;92.95774648;71.0;-10.179046309344685;;;Maruderzy;Dzieci lub młodzież;gmina miejska;463.0
-27325;xliiloirenysendlerowej;lodz baluty;ŁÓDZKIE;publiczna;54.85;46.62222222;86.36363636;45.0;-6.296498868930826;;;Srodek;Dzieci lub młodzież;gmina miejska;490.0
-27378;xliiilojulianatuwima;lodz gorna;ŁÓDZKIE;publiczna;69.16666666666667;46.18367347;77.55102041;49.0;-9.496409889072758;;;Maruderzy;Dzieci lub młodzież;gmina miejska;431.0
-27812;lviiilokrzysztofakamilabaczynskiego;srodmiescie;MAZOWIECKIE;publiczna;132.025;70.81081081;98.66666667;75.0;3.006771919099151;;;Srodek;Dzieci lub młodzież;gmina miejska;515.0
-27858;ixloklementynyhoffmanowej;srodmiescie;MAZOWIECKIE;publiczna;176.86666666666667;86.07171315;100.0;251.0;9.618727591093432;;;Liderzy;Dzieci lub młodzież;gmina miejska;1165.0
-27918;xviiloandrzejafryczamodrzewskiego;srodmiescie;MAZOWIECKIE;publiczna;170.94;80.16666667;100.0;114.0;4.856801510700521;;;Srodek;Dzieci lub młodzież;gmina miejska;657.0
-28516;xxxviilojaroslawadabrowskiego;srodmiescie;MAZOWIECKIE;publiczna;167.28;84.33552632;100.0;152.0;9.731592656070902;;;Liderzy;Dzieci lub młodzież;gmina miejska;727.0
-28520;xvilo;katowice;ŚLĄSKIE;publiczna;62.0;60.25;91.66666667;12.0;5.952205088146137;;;Srodek;Dzieci lub młodzież;gmina miejska;165.0
-28603;xilomikolajareja;srodmiescie;MAZOWIECKIE;publiczna;167.8;81.48412698;100.0;127.0;6.779897038040147;;;Liderzy;Dzieci lub młodzież;gmina miejska;631.0
-29142;xivlokazimierzawielkiego;poznan nowe miasto;WIELKOPOLSKIE;publiczna;149.80714285714288;66.75247525;100.0;101.0;-4.481338148560113;;;Srodek;Dzieci lub młodzież;gmina miejska;779.0
-29239;lxixlobohaterowpowstaniawarszawskiego1944wwarszawie;ochota;MAZOWIECKIE;publiczna;140.20999999999998;64.7037037;90.74074074;54.0;-4.679037182596659;;;Srodek;Dzieci lub młodzież;gmina miejska;504.0
-29583;iiilomarynarkiwojennejrpzoddz;gdynia;POMORSKIE;publiczna;188.1;79.13131313;100.0;99.0;0.5116707956852053;;;Srodek;Dzieci lub młodzież;gmina miejska;712.0
-29625;xxvlogeneralowejjadwigizamoyskiej;poznan jezyce;WIELKOPOLSKIE;publiczna;134.025;69.41836735;98.97959184;98.0;1.2285735435961982;;;Srodek;Dzieci lub młodzież;gmina miejska;608.0
-29670;ixlokarolalibelta;poznan stare miasto;WIELKOPOLSKIE;publiczna;157.44166666666666;75.33333333;100.0;120.0;2.626992387915834;;;Srodek;Dzieci lub młodzież;gmina miejska;678.0
-30251;xviiilojanazamoyskiego;srodmiescie;MAZOWIECKIE;publiczna;172.38333333333333;80.84482759;100.0;174.0;5.256575966679208;;;Srodek;Dzieci lub młodzież;gmina miejska;828.0
-30253;lxviilojananowakajezioranskiego;srodmiescie;MAZOWIECKIE;publiczna;170.675;77.76237624;100.0;101.0;2.5036236070046556;;;Srodek;Dzieci lub młodzież;gmina miejska;571.0
-30254;lxxvlojanaiiisobieskiego;srodmiescie;MAZOWIECKIE;publiczna;150.05;77.41025641;100.0;118.0;6.129601343128812;;;Srodek;Dzieci lub młodzież;gmina miejska;741.0
-30502;ivloadamamickiewicza;praga poludnie;MAZOWIECKIE;publiczna;162.1125;74.8540146;100.0;137.0;1.246775199001661;;;Srodek;Dzieci lub młodzież;gmina miejska;714.0
-30629;lxxxviilogenleopoldaokulickiego;praga poludnie;MAZOWIECKIE;publiczna;123.0;66.51020408;85.71428571;49.0;0.44688424530619386;;;Srodek;Dzieci lub młodzież;gmina miejska;300.0
-30690;xvlonarcyzyzmichowskiej;srodmiescie;MAZOWIECKIE;publiczna;159.9466666666667;80.80898876;100.0;89.0;7.619489786248394;;;Liderzy;Dzieci lub młodzież;gmina miejska;633.0
-31063;lxxxiiiloemilianakonopczynskiego;srodmiescie;MAZOWIECKIE;publiczna;157.6375;77.18;100.0;100.0;4.4358872224395185;;;Srodek;Dzieci lub młodzież;gmina miejska;667.0
-31832;iiiloswjanakantego;poznan;WIELKOPOLSKIE;publiczna;167.6;78.21875;100.0;160.0;3.553095549590438;;;Srodek;Dzieci lub młodzież;gmina miejska;667.0
-31841;ivlokomisjiedukacjinarodowej;poznan jezyce;WIELKOPOLSKIE;publiczna;161.15555555555557;69.26829268;100.0;164.0;-4.1543737093444975;;;Srodek;Dzieci lub młodzież;gmina miejska;684.0
-34199;viiiloadamamickiewicza;poznan stare miasto;WIELKOPOLSKIE;publiczna;169.29285714285714;78.01204819;100.0;166.0;3.0198797575397407;;;Srodek;Dzieci lub młodzież;gmina miejska;798.0
-34505;xcivlogenstanislawamaczka;bielany;MAZOWIECKIE;publiczna;157.43;76.50943396;100.0;160.0;3.8053432549229314;;;Srodek;Dzieci lub młodzież;gmina miejska;863.0
-34506;cxxiiloignacegodomeyki;bielany;MAZOWIECKIE;publiczna;172.54166666666666;74.1637931;100.0;116.0;-1.45499745413143;;;Srodek;Dzieci lub młodzież;gmina miejska;689.0
-34510;xxxixlolotnictwapolskiego;bielany;MAZOWIECKIE;publiczna;129.8625;62.10869565;88.17204301;93.0;-5.2782457385132915;;;Srodek;Dzieci lub młodzież;gmina miejska;502.0
-34512;xlilojoachimalelewela;bielany;MAZOWIECKIE;publiczna;169.91111111111113;76.08040201;99.49748744;199.0;0.9689863238981502;;;Srodek;Dzieci lub młodzież;gmina miejska;839.0
-34513;liilowladyslawastanislawareymonta;bielany;MAZOWIECKIE;publiczna;144.33333333333334;63.23529412;100.0;85.0;-6.9427448133919185;;;Srodek;Dzieci lub młodzież;gmina miejska;497.0
-34621;xlvilostefanaczarnieckiegowwarszawie;targowek;MAZOWIECKIE;publiczna;144.53333333333333;68.63030303;98.19277108;166.0;-1.5863113949422143;;;Srodek;Dzieci lub młodzież;gmina miejska;906.0
-34665;lxxxviiilomichalakonarskiego;wola;MAZOWIECKIE;publiczna;68.23333333333333;57.86363636;77.27272727;66.0;2.363571961495282;;;Srodek;Dzieci lub młodzież;gmina miejska;321.0
-38949;ilojuliuszaslowackiego;czestochowa;ŚLĄSKIE;publiczna;131.9375;76.08450704;100.0;142.0;8.2973449266524;;;Liderzy;Dzieci lub młodzież;gmina miejska;644.0
-39099;xxxiiilodwujezycznemikolajakopernika;wola;MAZOWIECKIE;publiczna;187.54;81.73333333;100.0;120.0;3.2217023720260443;;;Srodek;Dzieci lub młodzież;gmina miejska;856.0
-39647;xvilostefaniisempolowskiej;zoliborz;MAZOWIECKIE;publiczna;156.07857142857142;81.72440945;100.0;127.0;9.280978852112781;;;Liderzy;Dzieci lub młodzież;gmina miejska;593.0
-39649;lxivlostanislawaignacegowitkiewiczawitkacego;zoliborz;MAZOWIECKIE;publiczna;176.1875;82.61111111;100.0;108.0;6.289121491149643;;;Srodek;Dzieci lub młodzież;gmina miejska;504.0
-40944;iiloromualdatraugutta;czestochowa;ŚLĄSKIE;publiczna;132.18;63.43697479;99.15966387;119.0;-4.39696010685234;;;Srodek;Dzieci lub młodzież;gmina miejska;643.0
-40982;viiilowladyslawaiv;praga polnoc;MAZOWIECKIE;publiczna;173.1;78.00680272;100.0;148.0;2.2803222519573296;;;Srodek;Dzieci lub młodzież;gmina miejska;622.0
-41853;xxxviiilostanislawakostkipotockiegowwarszawie;wilanow;MAZOWIECKIE;publiczna;136.2625;66.06493506;100.0;77.0;-2.5564220581227346;;;Srodek;Dzieci lub młodzież;gmina miejska;491.0
-41946;lloruybarbosy;praga polnoc;MAZOWIECKIE;publiczna;133.5;68.09756098;99.19354839;124.0;0.00902783891571346;;;Srodek;Dzieci lub młodzież;gmina miejska;757.0
-42024;ivlohenrykasienkiewicza;czestochowa;ŚLĄSKIE;publiczna;82.8;73.62631579;100.0;190.0;15.31666975691548;;;Liderzy;Dzieci lub młodzież;gmina miejska;740.0
-42095;vloadamamickiewicza;czestochowa;ŚLĄSKIE;publiczna;107.95;65.89156627;98.19277108;166.0;2.731052174465887;;;Srodek;Dzieci lub młodzież;gmina miejska;788.0
-42262;viilomikolajakopernika;czestochowa;ŚLĄSKIE;publiczna;128.35;74.47342995;100.0;208.0;7.378215716335802;;;Liderzy;Dzieci lub młodzież;gmina miejska;788.0
-42509;loxiiialeksandrafredry;wroclaw krzyki;DOLNOŚLĄSKIE;publiczna;159.15;79.58333333;100.0;204.0;6.547493397590401;;;Srodek;Dzieci lub młodzież;gmina miejska;1184.0
-43385;lxxviiilomariipawlikowskiejjasnorzewskiej;bemowo;MAZOWIECKIE;publiczna;137.45166666666668;74.26351351;100.0;148.0;5.412792948367809;;;Srodek;Dzieci lub młodzież;gmina miejska;908.0
-43558;xilojadwigiiwaclawazembrzuskich;poznan grunwald;WIELKOPOLSKIE;publiczna;146.29999999999998;69.87333333;100.0;150.0;-0.6840312703031515;;;Srodek;Dzieci lub młodzież;gmina miejska;722.0
-43580;loswmariimagdaleny;poznan;WIELKOPOLSKIE;publiczna;172.62;75.55029586;100.0;170.0;-0.08360342832196466;;;Srodek;Dzieci lub młodzież;gmina miejska;643.0
-44248;cxxxviilorobertaschumana;targowek;MAZOWIECKIE;publiczna;132.74285714285716;74.70930233;100.0;172.0;6.76680497835612;;;Liderzy;Dzieci lub młodzież;gmina miejska;679.0
-46647;lxxxivlobohaterownarwiku;wlochy;MAZOWIECKIE;publiczna;152.02499999999998;69.23529412;100.0;17.0;-2.426293925930338;;;Srodek;Dzieci lub młodzież;gmina miejska;134.0
-49970;xxxiilostefanagrotaroweckiego;srodmiescie;MAZOWIECKIE;publiczna;120.65;76.47368421;84.21052632;19.0;10.86362640102216;;;Liderzy;Dzieci lub młodzież;gmina miejska;161.0
-51790;vilohugonakollatajawlublinie;lublin;LUBELSKIE;publiczna;91.8625;60.96226415;97.16981132;106.0;0.9046661560427367;;;Srodek;Dzieci lub młodzież;gmina miejska;793.0
-52409;ilostanislawastaszicawlublinie;lublin;LUBELSKIE;publiczna;161.83333333333334;79.26119403;100.0;134.0;5.707799585957275;;;Srodek;Dzieci lub młodzież;gmina miejska;739.0
-52410;iilohetmanajanazamoyskiegowlublinie;lublin;LUBELSKIE;publiczna;164.79999999999998;73.74846626;100.0;163.0;-0.37713130870542955;;;Srodek;Dzieci lub młodzież;gmina miejska;704.0
-52697;iiilouniilubelskiejwlublinie;lublin;LUBELSKIE;publiczna;175.11;79.69268293;100.0;205.0;3.5785187718768725;;;Srodek;Dzieci lub młodzież;gmina miejska;653.0
-52853;vlomariisklodowskiejcuriewlublinie;lublin;LUBELSKIE;publiczna;155.11666666666667;72.19617225;100.0;209.0;-0.061728602811982114;;;Srodek;Dzieci lub młodzież;gmina miejska;883.0
-52854;ivlostefaniisempolowskiejwlublinie;lublin;LUBELSKIE;publiczna;132.89166666666668;73.72916667;100.0;193.0;5.757967315714524;;;Srodek;Dzieci lub młodzież;gmina miejska;863.0
-52855;viiilozofiinalkowskiejwlublinie;lublin;LUBELSKIE;publiczna;82.6375;64.91129032;87.09677419;124.0;6.6329868738000926;;;Srodek;Dzieci lub młodzież;gmina miejska;495.0
-52857;ixlomikolajakopernikawlublinie;lublin;LUBELSKIE;publiczna;158.03333333333333;75.14835165;99.45652174;184.0;2.327891545412882;;;Srodek;Dzieci lub młodzież;gmina miejska;703.0
-52860;xxiiilonauczycielitajnegonauczaniawlublinie;lublin;LUBELSKIE;publiczna;128.75;64.18867925;98.125;160.0;-2.9836859667647673;;;Srodek;Dzieci lub młodzież;gmina miejska;867.0
-56095;iilostefanabatorego;srodmiescie;MAZOWIECKIE;publiczna;186.29;80.93859649;100.0;114.0;2.6680623542153796;;;Srodek;Dzieci lub młodzież;gmina miejska;801.0
-56370;liiilo;srodmiescie;MAZOWIECKIE;publiczna;160.85;53.53623188;80.88235294;69.0;-19.827499730587107;;;Maruderzy;Dorośli;gmina miejska;907.0
-59581;lilotadeuszakosciuszki;rembertow;MAZOWIECKIE;publiczna;105.975;63.19402985;100.0;67.0;0.41444873352505596;;;Srodek;Dzieci lub młodzież;gmina miejska;505.0
-59665;xiiiloplkleopoldalisakuli;targowek;MAZOWIECKIE;publiczna;155.10625;78.18691589;100.0;214.0;5.931024177372919;;;Srodek;Dzieci lub młodzież;gmina miejska;1122.0
-68270;loixjuliuszaslowackiego;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;165.20666666666665;72.00847458;100.0;236.0;-2.1955598215243555;;;Srodek;Dzieci lub młodzież;gmina miejska;1185.0
-68321;loxivpoloniibelgijskiej;wroclaw psie pole;DOLNOŚLĄSKIE;publiczna;163.575;74.25280899;100.0;179.0;0.36348630704013374;;;Srodek;Dzieci lub młodzież;gmina miejska;912.0
-68477;xviiilostanislawyfilipinypaleologwlublinie;lublin;LUBELSKIE;publiczna;54.5;61.0;73.91304348;23.0;8.148786021282199;;;Liderzy;Dzieci lub młodzież;gmina miejska;264.0
-70905;xviilowbialymstokuzespoluszkolrolniczychwbialymstoku;bialystok;PODLASKIE;publiczna;60.65;47.28125;84.375;32.0;-6.75616034388937;;;Srodek;Dzieci lub młodzież;gmina miejska;98.0
-71604;ixlowbialymstokuzespoluszkologolnoksztalcacychitechnicznychwbialymstoku;bialystok;PODLASKIE;publiczna;59.116666666666674;36.81818182;75.0;44.0;-16.923483088670444;;;Maruderzy;Dzieci lub młodzież;gmina miejska;423.0
-74772;iilodrwladyslawapniewskiegowgdansku;gdansk;POMORSKIE;publiczna;166.42000000000002;72.46405229;99.34640523;153.0;-1.9740067602628244;;;Srodek;Dzieci lub młodzież;gmina miejska;637.0
-74951;lozakwszczecinie;szczecin;ZACHODNIOPOMORSKIE;niepubliczna;143.01999999999998;34.5;33.33333333;30.0;-35.42472653887832;;;Maruderzy;Dorośli;gmina miejska;620.0
-75450;ivlomariisklodowskiejcuriewolsztynie;olsztyn;WARMIŃSKO-MAZURSKIE;publiczna;138.06;62.29508197;97.56097561;123.0;-6.672972378431012;;;Srodek;Dzieci lub młodzież;gmina miejska;698.0
-79023;xixlomariiijerzegokuncewiczowwlublinie;lublin;LUBELSKIE;publiczna;87.6875;58.47058824;88.23529412;51.0;-0.7817463678448604;;;Srodek;Dzieci lub młodzież;gmina miejska;498.0
-79204;ilokarolamarcinkowskiego;poznan;WIELKOPOLSKIE;publiczna;172.175;79.52531646;100.0;159.0;3.977247640377442;;;Srodek;Dzieci lub młodzież;gmina miejska;788.0
-79348;katolickieloswmaksymilianamariikolbego;szczecin;ZACHODNIOPOMORSKIE;publiczna;140.71666666666667;76.21276596;100.0;47.0;6.732300498809238;;;Liderzy;Dzieci lub młodzież;gmina miejska;178.0
-79937;xxilogenwladyslawaandersa;poznan stare miasto;WIELKOPOLSKIE;publiczna;119.825;70.15217391;97.82608696;46.0;4.701240003667138;;;Srodek;Dzieci lub młodzież;gmina miejska;376.0
-80197;cxxviiilo;wola;MAZOWIECKIE;publiczna;160.85;49.47222222;72.22222222;37.0;-23.89150939058711;;;Maruderzy;Dorośli;gmina miejska;595.0
-81335;lxxxloleopoldastaffa;mokotow;MAZOWIECKIE;publiczna;149.875;65.31914894;100.0;47.0;-5.927752571764671;;;Srodek;Dzieci lub młodzież;gmina miejska;328.0
-82414;iilogeneralowejzamoyskiejihelenymodrzejewskiej;poznan grunwald;WIELKOPOLSKIE;publiczna;190.83333333333331;77.05263158;100.0;95.0;-2.094209138835481;;;Srodek;Dzieci lub młodzież;gmina miejska;511.0
-83621;cxlorobertaschumana;mokotow;MAZOWIECKIE;publiczna;130.45000000000002;61.2244898;93.87755102;49.0;-6.275767094942282;;;Srodek;Dzieci lub młodzież;gmina miejska;386.0
-83650;vilotadeuszareytana;mokotow;MAZOWIECKIE;publiczna;165.63333333333335;80.0591716;100.0;170.0;5.772842816501665;;;Srodek;Dzieci lub młodzież;gmina miejska;853.0
-83866;iilokrolowejjadwigi;torun;KUJAWSKO-POMORSKIE;publiczna;70.9625;61.25396825;90.47619048;63.0;5.227509123048549;;;Srodek;Dzieci lub młodzież;gmina miejska;571.0
-83953;publicznelozakonupijarowswjozefakalasancjuszawpoznaniu;poznan stare miasto;WIELKOPOLSKIE;publiczna;83.48333333333333;67.68965517;100.0;58.0;9.248209540785297;;;Liderzy;Dzieci lub młodzież;gmina miejska;262.0
-84029;ivlotadeuszakosciuszki;torun;KUJAWSKO-POMORSKIE;publiczna;161.66;70.74705882;100.0;170.0;-2.772903531365799;;;Srodek;Dzieci lub młodzież;gmina miejska;665.0
-84173;vilozeslancowsybiru;torun;KUJAWSKO-POMORSKIE;publiczna;58.833333333333336;44.6;70.0;40.0;-9.087016295640858;;;Maruderzy;Dzieci lub młodzież;gmina miejska;383.0
-86095;xxviiilo;poznan grunwald;WIELKOPOLSKIE;publiczna;124.025;57.37931034;82.75862069;29.0;-8.881708888889065;;;Maruderzy;Dzieci lub młodzież;gmina miejska;270.0
-86171;viloignacegojanapaderewskiego;poznan;WIELKOPOLSKIE;publiczna;162.275;68.98773006;99.38650307;163.0;-4.650851927882954;;;Srodek;Dzieci lub młodzież;gmina miejska;793.0
-86172;viilodabrowki;poznan jezyce;WIELKOPOLSKIE;publiczna;146.4;71.86507937;100.0;126.0;1.2884270239216988;;;Srodek;Dzieci lub młodzież;gmina miejska;717.0
-86518;publiczneakademickielowrzeszowie;rzeszow;PODKARPACKIE;publiczna;148.5;76.22222222;100.0;45.0;5.240527212643613;;;Srodek;Dzieci lub młodzież;gmina miejska;248.0
-86679;xxixlo;poznan wilda;WIELKOPOLSKIE;publiczna;106.91;61.62318841;92.75362319;69.0;-1.3367331294725773;;;Srodek;Dzieci lub młodzież;gmina miejska;464.0
-88064;xixlopowstancowwarszawy;praga poludnie;MAZOWIECKIE;publiczna;167.7125;80.52293578;100.0;110.0;5.835582615593395;;;Srodek;Dzieci lub młodzież;gmina miejska;616.0
-88065;xxiiilomariisklodowskiejcurie;praga poludnie;MAZOWIECKIE;publiczna;126.25;72.91304348;93.47826087;46.0;6.222871907613907;;;Srodek;Dzieci lub młodzież;gmina miejska;435.0
-88066;xlviilostanislawawyspianskiego;praga poludnie;MAZOWIECKIE;publiczna;153.16;78.60629921;99.21259843;127.0;6.725795249521738;;;Srodek;Dzieci lub młodzież;gmina miejska;713.0
-88067;lxxiilogenjakubajasinskiego;praga poludnie;MAZOWIECKIE;publiczna;133.96875;65.35135135;97.2972973;111.0;-2.8275930994052914;;;Srodek;Dzieci lub młodzież;gmina miejska;649.0
-88068;xcixlozbigniewaherberta;praga poludnie;MAZOWIECKIE;publiczna;132.394;71.8951049;100.0;145.0;4.019894227188857;;;Srodek;Dzieci lub młodzież;gmina miejska;723.0
-88359;xvlop0rofwiktoradegi;poznan stare miasto;WIELKOPOLSKIE;publiczna;154.45000000000002;66.1744186;100.0;87.0;-5.954897280977676;;;Srodek;Dzieci lub młodzież;gmina miejska;594.0
-88677;xxxilo;poznan grunwald;WIELKOPOLSKIE;publiczna;100.91666666666669;54.73076923;96.15384615;52.0;-7.073173412682074;;;Maruderzy;Dzieci lub młodzież;gmina miejska;261.0
-88974;viilomariikonopnickiejwlublinie;lublin;LUBELSKIE;publiczna;88.63333333333333;54.61904762;80.0;42.0;-4.815716916634791;;;Srodek;Dzieci lub młodzież;gmina miejska;412.0
-88975;xxviilozeslancowsybiruwlublinie;lublin;LUBELSKIE;publiczna;56.958333333333336;56.62962963;77.77777778;54.0;3.304258567643153;;;Srodek;Dzieci lub młodzież;gmina miejska;527.0
-89596;katolickieloswstanislawakostkiwkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;139.18333333333334;66.51515152;100.0;67.0;-2.6695685059718244;;;Srodek;Dzieci lub młodzież;gmina miejska;359.0
-89666;vilogabrielanarutowiczawolsztynie;olsztyn;WARMIŃSKO-MAZURSKIE;publiczna;60.45000000000001;53.0;96.42857143;56.0;-0.9988348523390798;;;Srodek;Dzieci lub młodzież;gmina miejska;421.0
-90185;xviilo;poznan nowe miasto;WIELKOPOLSKIE;publiczna;33.0;70.41830065;99.34640523;153.0;21.713952012938904;;;Liderzy;Dzieci lub młodzież;gmina miejska;740.0
-91173;xviiilo;poznan grunwald;WIELKOPOLSKIE;publiczna;33.0;58.90909091;95.45454545;22.0;10.204742272938901;;;Liderzy;Dzieci lub młodzież;gmina miejska;334.0
-105214;lvilorotmistrzawitoldapileckiego;ursus;MAZOWIECKIE;publiczna;134.54285714285714;67.640625;92.30769231;65.0;-0.6490517755965328;;;Srodek;Dzieci lub młodzież;gmina miejska;585.0
-106559;lovgeneralajakubajasinskiego;wroclaw krzyki;DOLNOŚLĄSKIE;publiczna;167.92499999999998;72.25899281;100.0;139.0;-2.4693468141787918;;;Srodek;Dzieci lub młodzież;gmina miejska;1038.0
-106868;loiipiastowslaskich;wroclaw srodmiescie;DOLNOŚLĄSKIE;publiczna;173.6875;62.23931624;98.29059829;117.0;-13.600479734471655;;;Maruderzy;Dzieci lub młodzież;gmina miejska;720.0
-108754;xilomariidabrowskiejwkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;160.20833333333334;76.48447205;100.0;161.0;3.244503474803423;;;Srodek;Dzieci lub młodzież;gmina miejska;726.0
-110260;cvlozbigniewaherberta;bialoleka;MAZOWIECKIE;publiczna;146.55416666666667;70.15602837;100.0;141.0;-0.4503592508149836;;;Srodek;Dzieci lub młodzież;gmina miejska;853.0
-115341;civlo;praga poludnie;MAZOWIECKIE;publiczna;119.94166666666666;58.0;88.37209302;43.0;-7.4734362764038735;;;Maruderzy;Dorośli;gmina miejska;517.0
-121357;xloprzemyslaii;poznan nowe miasto;WIELKOPOLSKIE;publiczna;134.525;66.10434783;97.39130435;115.0;-2.1818847052795434;;;Srodek;Dzieci lub młodzież;gmina miejska;706.0
-126415;lo;poznan nowe miasto;WIELKOPOLSKIE;publiczna;140.15;60.37398374;89.3442623;124.0;-8.997184495131592;;;Maruderzy;Dzieci lub młodzież;gmina miejska;569.0
-133365;clviiiloksieznejizabeliczartoryskiej;ursynow;MAZOWIECKIE;publiczna;167.92;74.60576923;97.11538462;104.0;-0.1216060068900191;;;Srodek;Dzieci lub młodzież;gmina miejska;591.0
-133453;clvlobohaterekpowstaniawarszawskiego;mokotow;MAZOWIECKIE;publiczna;146.24;79.03225806;100.0;124.0;8.486466107161931;;;Liderzy;Dzieci lub młodzież;gmina miejska;773.0
-133649;publiczneloixgeneralawladyslawaandersawopolu;opole;OPOLSKIE;publiczna;85.39999999999999;54.37209302;93.10344828;87.0;-4.4390344032383595;;;Srodek;Dzieci lub młodzież;gmina miejska;431.0
-133672;xxxviiloterapeutycznymi;poznan grunwald;WIELKOPOLSKIE;publiczna;27.95;41.5;36.36363636;34.0;-6.230317475416157;;;Srodek;Dzieci lub młodzież;gmina miejska;260.0
-133673;xxxviiidwujezycznelo;poznan jezyce;WIELKOPOLSKIE;publiczna;176.05714285714288;73.47101449;100.0;138.0;-2.825832174536316;;;Srodek;Dzieci lub młodzież;gmina miejska;712.0
-133758;xxixloccmjrhieronimadekutowskiegopszaporawlublinie;lublin;LUBELSKIE;publiczna;134.56875;66.28333333;96.66666667;60.0;-2.011337594056158;;;Srodek;Dzieci lub młodzież;gmina miejska;581.0
-133759;xxxloksiedzajanatwardowskiegowlublinie;lublin;LUBELSKIE;publiczna;159.64375;73.51010101;100.0;198.0;0.3790278328256136;;;Srodek;Dzieci lub młodzież;gmina miejska;839.0
-133795;clixlokrolajanaiiisobieskiego;wlochy;MAZOWIECKIE;publiczna;160.501;72.29746835;100.0;158.0;-0.9989490278318414;;;Srodek;Dzieci lub młodzież;gmina miejska;810.0
-196346;xviilowgdyni;gdynia;POMORSKIE;publiczna;158.75;71.70175439;100.0;57.0;-1.256934559309002;;;Srodek;Dzieci lub młodzież;gmina miejska;453.0
-262227;xvilowszczecinie;szczecin;ZACHODNIOPOMORSKIE;publiczna;143.01999999999998;62.38043478;98.91304348;92.0;-7.544291758878316;;;Maruderzy;Dzieci lub młodzież;gmina miejska;577.0
-263069;liceumsluzbmundurowychwewroclawiu;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;59.39615384615384;57.44137931;75.17730496;145.0;3.645807624675946;;;Srodek;Dzieci lub młodzież;gmina miejska;1094.0
-263334;clviilomariisklodowskiejcurie;srodmiescie;MAZOWIECKIE;publiczna;166.92857142857142;76.2967033;100.0;91.0;1.7605522855092914;;;Srodek;Dzieci lub młodzież;gmina miejska;735.0
-263524;ixlo;rzeszow;PODKARPACKIE;publiczna;53.025;66.96428571;100.0;112.0;14.397565981465618;;;Liderzy;Dzieci lub młodzież;gmina miejska;602.0
-266615;publicznelopaulimontalsiostrpijarekwrzeszowie;rzeszow;PODKARPACKIE;publiczna;135.01666666666668;75.27272727;100.0;22.0;6.891663317992652;;;Liderzy;Dzieci lub młodzież;gmina miejska;178.0
-266884;clxilo;wola;MAZOWIECKIE;publiczna;94.36666666666667;66.56565657;98.98989899;99.0;6.025061275590083;;;Srodek;Dzieci lub młodzież;gmina miejska;358.0
-267034;clxiiloszarychszeregow;targowek;MAZOWIECKIE;publiczna;88.67142857142858;66.64;98.0;50.0;7.197887750688956;;;Liderzy;Dzieci lub młodzież;gmina miejska;487.0
-270871;clxiiilo;wesola;MAZOWIECKIE;publiczna;160.85;72.70833333;100.0;48.0;-0.6553982805871073;;;Srodek;Dzieci lub młodzież;gmina miejska;601.0
-271907;clxivlo;mokotow;MAZOWIECKIE;publiczna;94.36666666666667;69.90909091;90.90909091;11.0;9.368495615590085;;;Liderzy;Dzieci lub młodzież;gmina miejska;168.0
-274376;clxvlo;bialoleka;MAZOWIECKIE;publiczna;122.44;73.69811321;100.0;53.0;7.742804751647029;;;Liderzy;Dzieci lub młodzież;gmina miejska;500.0
+2982;loswjadwigikrolowejwkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;142.8625;73.296875;98.4375;64.0;4.312384813036957;;;Srodek;Dzieci lub młodzież;gmina miejska;312.0
+3099;lo;szczecin;ZACHODNIOPOMORSKIE;publiczna;106.40625;60.12962963;88.88888889;54.0;-1.258259856371268;;;Srodek;Dzieci lub młodzież;gmina miejska;415.0
+3620;xlogdynskichnauczycielibohaterowiiwojnyswiatowej;gdynia;POMORSKIE;publiczna;160.87142857142857;70.49593496;100.0;123.0;-2.2411803434415987;;;Srodek;Dzieci lub młodzież;gmina miejska;474.0
+3640;vilowaclawasierpinskiego;gdynia;POMORSKIE;publiczna;168.16875;76.10743802;100.0;121.0;1.8497374375807567;;;Srodek;Dzieci lub młodzież;gmina miejska;572.0
+3893;iiilomikolajakopernika;szczecin;ZACHODNIOPOMORSKIE;publiczna;117.43333333333334;65.23863636;100.0;88.0;1.5529694287329008;;;Srodek;Dzieci lub młodzież;gmina miejska;513.0
+3904;viiiloolimpijczykowpolskich;szczecin;ZACHODNIOPOMORSKIE;publiczna;103.475;57.86206897;72.4137931;87.0;-2.9150189170951464;;;Srodek;Dzieci lub młodzież;gmina miejska;330.0
+3957;ixlomarszalkajozefapilsudskiego;gdynia;POMORSKIE;publiczna;148.45000000000002;64.1294964;99.28057554;139.0;-6.019293637182329;;;Srodek;Dzieci lub młodzież;gmina miejska;719.0
+3963;ilomsklodowskiejcurie;szczecin;ZACHODNIOPOMORSKIE;publiczna;154.68333333333334;77.31455399;100.0;213.0;5.866888057271041;;;Srodek;Dzieci lub młodzież;gmina miejska;1036.0
+3966;vilostefanaczarnieckiego;szczecin;ZACHODNIOPOMORSKIE;publiczna;149.27499999999998;70.76315789;100.0;114.0;0.4424578078188688;;;Srodek;Dzieci lub młodzież;gmina miejska;652.0
+4043;iiilocyprianakamilanorwidawkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;143.8;67.56470588;100.0;170.0;-1.615136630825333;;;Srodek;Dzieci lub młodzież;gmina miejska;852.0
+4045;iakademickielozasluzonychludzimorza;gdynia;POMORSKIE;publiczna;155.17857142857142;70.78378378;98.64864865;74.0;-0.7670777930168526;;;Srodek;Dzieci lub młodzież;gmina miejska;513.0
+4434;xxilostanislawaignacegowitkiewiczawitkacegowkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;69.55000000000001;70.6875;87.5;32.0;16.979561539068428;;;Liderzy;Dzieci lub młodzież;gmina miejska;143.0
+4435;xlokomisjiedukacjinarodowejwkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;168.6916666666667;76.7;100.0;190.0;2.33333623249311;;;Srodek;Dzieci lub młodzież;gmina miejska;758.0
+4577;vilojuliuszaslowackiegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;159.6;69.75980392;100.0;204.0;-2.712376422317874;;;Srodek;Dzieci lub młodzież;gmina miejska;1058.0
+4648;xvilokrzysztofakamilabaczynskiegowkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;105.49;54.94690265;94.73684211;114.0;-6.250062498516513;;;Srodek;Dzieci lub młodzież;gmina miejska;510.0
+4735;vloaugustawitkowskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;180.08125;81.17083333;100.0;240.0;4.430855885703835;;;Srodek;Dzieci lub młodzież;gmina miejska;948.0
+4748;vlokspiotrasciegiennegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;137.475;65.07567568;99.45945946;185.0;-2.786189819167717;;;Srodek;Dzieci lub młodzież;gmina miejska;852.0
+4881;ixlozygmuntawroblewskiegowkrakowie;krakow krowodrza;MAŁOPOLSKIE;publiczna;163.3625;72.792;100.0;125.0;-0.46419433541855426;;;Srodek;Dzieci lub młodzież;gmina miejska;493.0
+5366;ivlocyprianakamilanorwidawbialymstoku;bialystok;PODLASKIE;publiczna;131.93055555555554;63.36681223;100.0;229.0;-3.33972515530359;;;Srodek;Dzieci lub młodzież;gmina miejska;987.0
+5448;iilojanasniadeckiegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;161.82857142857142;73.54185022;100.0;228.0;0.605289496386618;;;Srodek;Dzieci lub młodzież;gmina miejska;1099.0
+5756;ilostefanazeromskiegowkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;155.225;75.93010753;100.0;186.0;4.369571365706165;;;Srodek;Dzieci lub młodzież;gmina miejska;825.0
+6934;xvlozjednoczonejeuropywgdansku;gdansk;POMORSKIE;publiczna;148.45714285714286;65.24223602;98.14814815;162.0;-4.908042415840299;;;Srodek;Dzieci lub młodzież;gmina miejska;878.0
+6954;xixlomarianamokwywgdansku;gdansk;POMORSKIE;publiczna;158.52857142857144;67.14189189;100.0;149.0;-5.107028653618116;;;Srodek;Dzieci lub młodzież;gmina miejska;634.0
+7000;vloadamaasnyka;szczecin;ZACHODNIOPOMORSKIE;publiczna;171.4625;75.74137931;100.0;116.0;0.7973408964112139;;;Srodek;Dzieci lub młodzież;gmina miejska;608.0
+7051;vlostefanazeromskiegowgdansku;gdansk;POMORSKIE;publiczna;171.58714285714288;70.86666667;100.0;150.0;-4.1033443001708605;;;Srodek;Dzieci lub młodzież;gmina miejska;564.0
+7099;ogolnoksztalcacych13iiilobohaterowwesterplattewgdansku;gdansk;POMORSKIE;publiczna;167.43333333333334;75.86725664;100.0;113.0;1.762799102743827;;;Srodek;Dzieci lub młodzież;gmina miejska;697.0
+7670;ilomikolajakopernika;torun;KUJAWSKO-POMORSKIE;publiczna;164.34;76.04938272;100.0;162.0;2.589501028234352;;;Srodek;Dzieci lub młodzież;gmina miejska;731.0
+7709;xxviiilowojciechabednarskiegowkrakowie;krakow podgorze;MAŁOPOLSKIE;publiczna;146.5125;58.43835616;97.26027397;73.0;-11.306705741200247;;;Maruderzy;Dzieci lub młodzież;gmina miejska;415.0
+7713;ilobartlomiejanowodworskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;173.02857142857144;81.01522843;100.0;197.0;5.744858610645053;;;Srodek;Dzieci lub młodzież;gmina miejska;824.0
+7753;ilomikolajakopernikawgdansku;gdansk;POMORSKIE;publiczna;168.86;77.38922156;100.0;167.0;2.9874811974529365;;;Srodek;Dzieci lub młodzież;gmina miejska;660.0
+7863;xlojozefawybickiego;kielce;ŚWIĘTOKRZYSKIE;publiczna;146.3;56.80487805;87.65432099;82.0;-12.895903991124797;;;Maruderzy;Dzieci lub młodzież;gmina miejska;672.0
+7983;xxilo;gdansk;POMORSKIE;publiczna;86.4375;46.84057971;71.01449275;69.0;-10.38630527810438;;;Maruderzy;Dzieci lub młodzież;gmina miejska;454.0
+8286;ivlotadeuszakosciuszkiwkrakowie;krakow podgorze;MAŁOPOLSKIE;publiczna;169.9857142857143;66.69411765;100.0;170.0;-7.94219434104761;;;Srodek;Dzieci lub młodzież;gmina miejska;769.0
+8461;iiilosamuelabogumilalindego;torun;KUJAWSKO-POMORSKIE;publiczna;111.075;58.25157233;98.11320755;159.0;-4.109171729205485;;;Srodek;Dzieci lub młodzież;gmina miejska;826.0
+8576;viilokkbaczynskiego;szczecin;ZACHODNIOPOMORSKIE;publiczna;97.5;61.76;95.0;100.0;2.2279575903205355;;;Srodek;Dzieci lub młodzież;gmina miejska;590.0
+8771;vlojanapawlaii;torun;KUJAWSKO-POMORSKIE;publiczna;155.7625;71.56875;100.0;160.0;-0.1037881633082236;;;Srodek;Dzieci lub młodzież;gmina miejska;625.0
+8796;viilowandyszuman;torun;KUJAWSKO-POMORSKIE;publiczna;99.925;49.86021505;93.47826087;94.0;-10.177138704069925;;;Maruderzy;Dzieci lub młodzież;gmina miejska;436.0
+8803;ixlokazimierzajagielonczyka;torun;KUJAWSKO-POMORSKIE;publiczna;115.775;53.7037037;86.41975309;81.0;-9.63640667616847;;;Maruderzy;Dzieci lub młodzież;gmina miejska;791.0
+9283;iloksstanislawakonarskiegowrzeszowie;rzeszow;PODKARPACKIE;publiczna;163.975;73.20245399;100.0;164.0;-0.18137053034192263;;;Srodek;Dzieci lub młodzież;gmina miejska;771.0
+9686;iiilojanakochanowskiegowkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;166.35;77.29341317;100.0;167.0;3.4146960958735946;;;Srodek;Dzieci lub młodzież;gmina miejska;744.0
+11182;viiilokomisjiedukacjinarodowejwgdansku;gdansk;POMORSKIE;publiczna;164.40833333333333;70.41666667;100.0;144.0;-3.0574540355938353;;;Srodek;Dzieci lub młodzież;gmina miejska;568.0
+11305;xviiilojozefawybickiego;szczecin;ZACHODNIOPOMORSKIE;publiczna;74.5875;58.70454545;81.81818182;88.0;3.9469138355150264;;;Srodek;Dzieci lub młodzież;gmina miejska;473.0
+11472;loidanutysiedzikownyinki;wroclaw srodmiescie;DOLNOŚLĄSKIE;publiczna;145.98333333333332;74.79577465;98.5915493;142.0;5.160978282713145;;;Srodek;Dzieci lub młodzież;gmina miejska;908.0
+11473;loxiiboleslawachrobrego;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;165.79500000000002;75.34;100.0;202.0;1.576931501600086;;;Srodek;Dzieci lub młodzież;gmina miejska;1092.0
+11474;loiiiadamamickiewicza;wroclaw srodmiescie;DOLNOŚLĄSKIE;publiczna;172.76;85.29927007;100.0;137.0;10.084864040185806;;;Liderzy;Dzieci lub młodzież;gmina miejska;608.0
+11475;loivstefanazeromskiego;wroclaw krzyki;DOLNOŚLĄSKIE;publiczna;154.29444444444445;72.42261905;99.4047619;168.0;1.0559881553176211;;;Srodek;Dzieci lub młodzież;gmina miejska;958.0
+11476;loviboleslawaprusa;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;157.07999999999998;70.71069182;100.0;159.0;-1.236381475776028;;;Srodek;Dzieci lub młodzież;gmina miejska;628.0
+11477;loviikrzysztofakamilabaczynskiego;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;163.68333333333334;69.61398176;99.09365559;331.0;-3.7090664818069854;;;Srodek;Dzieci lub młodzież;gmina miejska;1405.0
+11478;loviiiboleslawakrzywoustego;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;166.865;73.10294118;99.50980392;204.0;-0.8830894373680849;;;Srodek;Dzieci lub młodzież;gmina miejska;1008.0
+11479;loxstefaniisempolowskiej;wroclaw psie pole;DOLNOŚLĄSKIE;publiczna;150.15;66.02714932;100.0;221.0;-4.475879597785934;;;Srodek;Dzieci lub młodzież;gmina miejska;1112.0
+11480;loxvmjrpiotrawysockiego;wroclaw fabryczna;DOLNOŚLĄSKIE;publiczna;111.75714285714284;59.19796954;85.12820513;197.0;-3.304916591044332;;;Srodek;Dzieci lub młodzież;gmina miejska;1233.0
+11481;loxviiagnieszkiosieckiej;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;143.61666666666667;65.99418605;98.25581395;172.0;-3.1474542286033795;;;Srodek;Dzieci lub młodzież;gmina miejska;864.0
+11589;xxvlojozefawybickiego;wawer;MAZOWIECKIE;publiczna;154.61999999999998;64.95;100.0;100.0;-6.484468797961355;;;Srodek;Dzieci lub młodzież;gmina miejska;658.0
+11761;viiilokrolakazimierzawielkiegowbialymstoku;bialystok;PODLASKIE;publiczna;148.58076923076922;59.66972477;98.62385321;218.0;-10.50631441184413;;;Maruderzy;Dzieci lub młodzież;gmina miejska;878.0
+11780;viilonauczycielitajnegonauczaniawbialymstoku;bialystok;PODLASKIE;publiczna;118.8777777777778;60.28735632;96.53179191;174.0;-3.699297895440125;;;Srodek;Dzieci lub młodzież;gmina miejska;765.0
+11972;xilorotmistrzawitoldapileckiegowbialymstoku;bialystok;PODLASKIE;publiczna;153.92000000000002;68.97701149;99.42528736;174.0;-2.311594239477529;;;Srodek;Dzieci lub młodzież;gmina miejska;785.0
+12059;xiilowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;81.975;58.88888889;94.44444444;18.0;2.5918809634801434;;;Srodek;Dzieci lub młodzież;gmina miejska;162.0
+12091;xiiilowbialymstokuzespoluszkologolnoksztalcacych1wbialymstoku;bialystok;PODLASKIE;publiczna;60.0;55.41818182;85.45454545;55.0;3.7002323648123365;;;Srodek;Dzieci lub młodzież;gmina miejska;327.0
+12098;xivloryszardakaczorowskiegowbialymstoku;bialystok;PODLASKIE;publiczna;84.36;51.46067416;92.22222222;90.0;-5.333310078425534;;;Srodek;Dzieci lub młodzież;gmina miejska;547.0
+12144;xiilo;rzeszow;PODKARPACKIE;publiczna;85.86666666666667;49.76923077;61.53846154;13.0;-7.338706358686004;;;Srodek;Dzieci lub młodzież;gmina miejska;271.0
+12494;ilocyprianakamilanorwidawbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;154.61666666666667;76.59550562;100.0;178.0;5.161731408079035;;;Srodek;Dzieci lub młodzież;gmina miejska;794.0
+12707;vilojanaijedrzejasniadeckichwbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;133.50833333333333;72.88489209;99.28057554;139.0;5.849583978907418;;;Srodek;Dzieci lub młodzież;gmina miejska;724.0
+12719;viilojanuszakusocinskiegowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;135.9;66.72649573;100.0;117.0;-0.8071778650790691;;;Srodek;Dzieci lub młodzież;gmina miejska;508.0
+12941;xxilosynowpulkowintegracyjnewbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;31.4;48.63636364;81.81818182;11.0;2.8779624114380766;;;Srodek;Dzieci lub młodzież;gmina miejska;129.0
+13413;xiilo;szczecin;ZACHODNIOPOMORSKIE;publiczna;162.15;64.75641026;96.15384615;78.0;-8.247128403223314;;;Maruderzy;Dzieci lub młodzież;gmina miejska;345.0
+13676;lo;szczecin;ZACHODNIOPOMORSKIE;publiczna;106.40625;59.72727273;90.90909091;22.0;-1.6606167563712617;;;Srodek;Dzieci lub młodzież;gmina miejska;250.0
+13730;lo;szczecin;ZACHODNIOPOMORSKIE;publiczna;106.40625;53.09090909;81.81818182;11.0;-8.296980396371268;;;Maruderzy;Dzieci lub młodzież;gmina miejska;211.0
+13768;viiilodraemilawarminskiegowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;115.49;64.82733813;98.56115108;139.0;1.546614860285672;;;Srodek;Dzieci lub młodzież;gmina miejska;760.0
+14520;viiilostanislawawyspianskiego;rzeszow;PODKARPACKIE;publiczna;105.42;59.07079646;96.49122807;114.0;-2.1115823816681285;;;Srodek;Dzieci lub młodzież;gmina miejska;833.0
+15300;ogolnoksztalcacych8wgdanskuxivlojanapawlaii;gdansk;POMORSKIE;publiczna;135.45000000000002;51.50649351;88.31168831;77.0;-15.933410969625172;;;Maruderzy;Dzieci lub młodzież;gmina miejska;591.0
+15718;ixlobohaterowmontecassino;szczecin;ZACHODNIOPOMORSKIE;publiczna;151.88333333333333;74.85245902;100.0;183.0;3.988245361206438;;;Srodek;Dzieci lub młodzież;gmina miejska;856.0
+15721;xiiilo;szczecin;ZACHODNIOPOMORSKIE;publiczna;162.15;81.85436893;100.0;103.0;8.850830266776697;;;Liderzy;Dzieci lub młodzież;gmina miejska;346.0
+16275;iiloplkleopoldalisakuli;rzeszow;PODKARPACKIE;publiczna;152.59166666666667;74.31923077;100.0;260.0;3.3074175776215924;;;Srodek;Dzieci lub młodzież;gmina miejska;992.0
+16276;ivlomikolajakopernika;rzeszow;PODKARPACKIE;publiczna;148.45625;69.02605863;99.67532468;308.0;-1.1240337560080746;;;Srodek;Dzieci lub młodzież;gmina miejska;1088.0
+16422;iiilogenjozefasowinskiego;wola;MAZOWIECKIE;publiczna;155.31666666666666;73.7606383;99.46808511;188.0;2.181001019595186;;;Srodek;Dzieci lub młodzież;gmina miejska;831.0
+16423;xiilohenrykasienkiewicza;wola;MAZOWIECKIE;publiczna;162.1875;83.15;100.0;120.0;10.138647243822192;;;Liderzy;Dzieci lub młodzież;gmina miejska;581.0
+16424;xxivlocyprianakamilanorwida;wola;MAZOWIECKIE;publiczna;157.24375;77.29801325;99.33774834;151.0;5.316818414989356;;;Srodek;Dzieci lub młodzież;gmina miejska;723.0
+16425;xxxlojanasniadeckiego;wola;MAZOWIECKIE;publiczna;161.00333333333333;82.01744186;100.0;172.0;9.252840794674043;;;Liderzy;Dzieci lub młodzież;gmina miejska;823.0
+16426;xllostefanazeromskiego;wola;MAZOWIECKIE;publiczna;173.3766666666667;85.75483871;100.0;156.0;10.411934262711924;;;Liderzy;Dzieci lub młodzież;gmina miejska;723.0
+16427;xlvloromualdatraugutta;wola;MAZOWIECKIE;publiczna;134.21249999999998;75.34615385;100.0;104.0;8.164114437873067;;;Liderzy;Dzieci lub młodzież;gmina miejska;548.0
+16428;lxxxvilobatalionuzoska;wola;MAZOWIECKIE;publiczna;134.95;74.72619048;98.80952381;84.0;7.390473906434735;;;Liderzy;Dzieci lub młodzież;gmina miejska;530.0
+16429;cxixlojackakuronia;wola;MAZOWIECKIE;publiczna;146.60625;75.77173913;100.0;92.0;6.007141996413537;;;Srodek;Dzieci lub młodzież;gmina miejska;503.0
+17601;ogolnoksztalcacych10eugeniuszakwiatkowskiegowgdanskuxxiiilo;gdansk;POMORSKIE;publiczna;98.23333333333332;65.43333333;76.66666667;30.0;5.748481991432698;;;Srodek;Dzieci lub młodzież;gmina miejska;295.0
+17874;iiiloproftadeuszakotarbinskiegowzielonejgorze;zielona gora;LUBUSKIE;publiczna;146.1125;70.48366013;100.0;153.0;0.8219485536476725;;;Srodek;Dzieci lub młodzież;gmina miejska;689.0
+17878;iiogolnoksztalcaceliceumekologiczneuniieuropejskiejwzespoleszkolekologicznychwzielonejgorze;zielona gora;LUBUSKIE;publiczna;125.39166666666668;68.58333333;96.875;96.0;3.2393422272796357;;;Srodek;Dzieci lub młodzież;gmina miejska;542.0
+18119;viilo;rzeszow;PODKARPACKIE;publiczna;90.9;63.375;91.66666667;24.0;5.218237950311092;;;Srodek;Dzieci lub młodzież;gmina miejska;231.0
+18356;ogolnoksztalcacych5ivlomarynarzywojskochronypograniczawgdansku;gdansk;POMORSKIE;publiczna;104.285;48.0234375;78.125;128.0;-12.922434794912178;;;Maruderzy;Dzieci lub młodzież;gmina miejska;748.0
+18457;ivlokazimierzawielkiegowbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;publiczna;152.6;69.58;100.0;150.0;-1.4335496574794035;;;Srodek;Dzieci lub młodzież;gmina miejska;602.0
+18579;ogolnoksztalcacych6vilowgdansku;gdansk;POMORSKIE;publiczna;125.05;53.75728155;84.46601942;103.0;-11.515514483579423;;;Maruderzy;Dzieci lub młodzież;gmina miejska;699.0
+18789;lxiiilolajosakossutha;ursynow;MAZOWIECKIE;publiczna;147.13125;67.82407407;100.0;108.0;-2.049920364949358;;;Srodek;Dzieci lub młodzież;gmina miejska;606.0
+18942;xivlogomikolajakopernikawgdyni;gdynia;POMORSKIE;publiczna;158.2125;68.27586207;100.0;116.0;-3.9071968330016773;;;Srodek;Dzieci lub młodzież;gmina miejska;642.0
+19063;iilomieszkai;szczecin;ZACHODNIOPOMORSKIE;publiczna;176.04;79.17241379;100.0;174.0;3.2745350964329134;;;Srodek;Dzieci lub młodzież;gmina miejska;854.0
+19073;lxxloaleksandrakaminskiego;ursynow;MAZOWIECKIE;publiczna;166.98;73.12676056;100.0;142.0;-0.8832332757618673;;;Srodek;Dzieci lub młodzież;gmina miejska;655.0
+19385;lowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;111.95;51.43478261;95.65217391;23.0;-11.108290284810302;;;Maruderzy;Dzieci lub młodzież;gmina miejska;170.0
+20087;viilozofiinalkowskiejwkrakowie;krakow krowodrza;MAŁOPOLSKIE;publiczna;169.3857142857143;75.80588235;100.0;170.0;1.2945958462242686;;;Srodek;Dzieci lub młodzież;gmina miejska;714.0
+20395;xxloboleslawachrobregowwarszawie;praga polnoc;MAZOWIECKIE;publiczna;102.075;54.32075472;88.88888889;54.0;-6.164607030127463;;;Srodek;Dzieci lub młodzież;gmina miejska;287.0
+20413;viloadamamickiewiczawkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;171.8777777777778;76.38793103;100.0;232.0;1.3573587722114837;;;Srodek;Dzieci lub młodzież;gmina miejska;1007.0
+20433;viiilostanislawawyspianskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;173.82857142857142;76.77094972;100.0;180.0;1.3338792509492379;;;Srodek;Dzieci lub młodzież;gmina miejska;861.0
+20580;cxxvlowaldemaramilewicza;wola;MAZOWIECKIE;publiczna;102.3625;65.06153846;87.69230769;65.0;4.5162686638880984;;;Srodek;Dzieci lub młodzież;gmina miejska;435.0
+21092;lxxvilomarszalkajozefapilsudskiego;praga polnoc;MAZOWIECKIE;publiczna;118.20833333333331;60.41176471;90.44117647;136.0;-3.4353934756599287;;;Srodek;Dzieci lub młodzież;gmina miejska;735.0
+21317;xxviilodrhenrykajordanawkrakowie;krakow krowodrza;MAŁOPOLSKIE;publiczna;161.75833333333333;62.93693694;96.3963964;111.0;-9.984987863476398;;;Maruderzy;Dzieci lub młodzież;gmina miejska;869.0
+22517;ilomikolajakopernika;lodz polesie;ŁÓDZKIE;publiczna;163.24;77.18548387;100.0;124.0;3.9548155715661153;;;Srodek;Dzieci lub młodzież;gmina miejska;525.0
+22518;iilogabrielanarutowicza;lodz widzew;ŁÓDZKIE;publiczna;107.08333333333331;62.98319328;100.0;119.0;1.4542160041726433;;;Srodek;Dzieci lub młodzież;gmina miejska;494.0
+22519;iiilotadeuszakosciuszki;lodz srodmiescie;ŁÓDZKIE;publiczna;156.15;68.80152672;100.0;132.0;-2.951757070504641;;;Srodek;Dzieci lub młodzież;gmina miejska;501.0
+22521;ivloemiliisczanieckiej;lodz srodmiescie;ŁÓDZKIE;publiczna;145.8357142857143;67.35443038;100.0;79.0;-2.2496057483548952;;;Srodek;Dzieci lub młodzież;gmina miejska;580.0
+22522;vilojoachimalelewela;lodz gorna;ŁÓDZKIE;publiczna;106.67;63.74264706;96.32352941;136.0;2.2997984531821487;;;Srodek;Dzieci lub młodzież;gmina miejska;639.0
+22523;viiiloadamaasnyka;lodz srodmiescie;ŁÓDZKIE;publiczna;134.42000000000002;74.75630252;100.0;119.0;7.531025126858211;;;Liderzy;Dzieci lub młodzież;gmina miejska;625.0
+22524;ixlojaroslawadabrowskiego;lodz gorna;ŁÓDZKIE;publiczna;97.375;62.05813953;98.8372093;86.0;2.5521440968355122;;;Srodek;Dzieci lub młodzież;gmina miejska;550.0
+22525;xiilostanislawawyspianskiego;lodz srodmiescie;ŁÓDZKIE;publiczna;138.6875;70.65546218;100.0;119.0;2.5409410086370485;;;Srodek;Dzieci lub młodzież;gmina miejska;481.0
+22574;xlokrolowejjadwigi;mokotow;MAZOWIECKIE;publiczna;159.8;75.328;100.0;125.0;2.8141444952581764;;;Srodek;Dzieci lub młodzież;gmina miejska;668.0
+22592;xxviiilojanakochanowskiego;mokotow;MAZOWIECKIE;publiczna;170.985;81.05925926;100.0;135.0;6.214720296698417;;;Srodek;Dzieci lub młodzież;gmina miejska;760.0
+22778;xxxivlomigueladecervantesa;mokotow;MAZOWIECKIE;publiczna;181.475;73.05109489;100.0;138.0;-3.9793063424380932;;;Srodek;Dzieci lub młodzież;gmina miejska;727.0
+22856;xliilomariikonopnickiej;mokotow;MAZOWIECKIE;publiczna;141.52;63.49579832;99.15966387;119.0;-5.2089473391922425;;;Srodek;Dzieci lub młodzież;gmina miejska;660.0
+22872;vilo;rzeszow;PODKARPACKIE;publiczna;90.9;62.35877863;99.61977186;263.0;4.202016580311096;;;Srodek;Dzieci lub młodzież;gmina miejska;1240.0
+22897;xlivlostefanabanacha;mokotow;MAZOWIECKIE;publiczna;154.245;65.70351759;100.0;199.0;-5.652810278416453;;;Srodek;Dzieci lub młodzież;gmina miejska;685.0
+22922;xlixlojohannawolfgangagoethego;mokotow;MAZOWIECKIE;publiczna;145.99166666666667;72.78343949;100.0;157.0;3.146906657612149;;;Srodek;Dzieci lub młodzież;gmina miejska;680.0
+22927;lxxxiloaleksandrafredry;srodmiescie;MAZOWIECKIE;publiczna;164.51666666666668;82.90566038;100.0;107.0;9.408965628093199;;;Liderzy;Dzieci lub młodzież;gmina miejska;537.0
+22932;lxvlogenjozefabema;mokotow;MAZOWIECKIE;publiczna;136.985;69.17708333;98.94736842;96.0;1.4173219787709712;;;Srodek;Dzieci lub młodzież;gmina miejska;466.0
+23199;iiloadamamickiewicza;gdynia;POMORSKIE;publiczna;165.38333333333333;70.36125654;100.0;191.0;-3.3160305824106047;;;Srodek;Dzieci lub młodzież;gmina miejska;797.0
+23486;xxiilojosémartí;bielany;MAZOWIECKIE;publiczna;174.3166666666667;78.44444444;100.0;154.0;2.9056667293193357;;;Srodek;Dzieci lub młodzież;gmina miejska;680.0
+24345;xliiilokazimierzawielkiego;mokotow;MAZOWIECKIE;publiczna;156.075;69.60784314;100.0;102.0;-2.129812464595645;;;Srodek;Dzieci lub młodzież;gmina miejska;728.0
+24346;lxviiilotytusachalubinskiego;mokotow;MAZOWIECKIE;publiczna;120.41666666666669;60.93902439;95.0617284;82.0;-3.3682970474244485;;;Srodek;Dzieci lub młodzież;gmina miejska;567.0
+24373;xlo;rzeszow;PODKARPACKIE;publiczna;53.025;56.60714286;60.71428571;28.0;6.342614694347816;;;Srodek;Dzieci lub młodzież;gmina miejska;259.0
+24585;cxilostefanakisielewskiego;praga poludnie;MAZOWIECKIE;publiczna;103.4;47.15555556;80.43478261;46.0;-13.605904141186166;;;Maruderzy;Dzieci lub młodzież;gmina miejska;303.0
+25173;xciilo;wola;MAZOWIECKIE;publiczna;100.7;60.11320755;84.90566038;53.0;-0.08563745846276305;;;Srodek;Dzieci lub młodzież;gmina miejska;322.0
+25220;xloprofstefanabanacha;torun;KUJAWSKO-POMORSKIE;publiczna;178.3857142857143;63.8254717;100.0;213.0;-12.561197112853769;;;Maruderzy;Dzieci lub młodzież;gmina miejska;995.0
+25263;viilojuliuszaslowackiegowwarszawie;ochota;MAZOWIECKIE;publiczna;172.3;86.10714286;100.0;140.0;10.988589703760894;;;Liderzy;Dzieci lub młodzież;gmina miejska;626.0
+25290;xiiilomariipiotrowiczowej;lodz baluty;ŁÓDZKIE;publiczna;139.86;70.06122449;100.0;98.0;1.7023826789265968;;;Srodek;Dzieci lub młodzież;gmina miejska;543.0
+25291;xvlojanakasprowicza;lodz baluty;ŁÓDZKIE;publiczna;133.95000000000002;66.87012987;100.0;77.0;-0.2572108914454958;;;Srodek;Dzieci lub młodzież;gmina miejska;515.0
+25292;xviiilojedrzejasniadeckiego;lodz polesie;ŁÓDZKIE;publiczna;58.73333333333333;55.15789474;94.82758621;58.0;3.703887980164062;;;Srodek;Dzieci lub młodzież;gmina miejska;456.0
+25350;xxiloboleslawaprusa;lodz polesie;ŁÓDZKIE;publiczna;153.20999999999998;69.19548872;99.2481203;133.0;-1.9451701828724737;;;Srodek;Dzieci lub młodzież;gmina miejska;551.0
+25360;xxvlostefanazeromskiego;lodz gorna;ŁÓDZKIE;publiczna;148.92000000000002;73.8807947;100.0;151.0;3.6340680311213873;;;Srodek;Dzieci lub młodzież;gmina miejska;543.0
+25401;xxiiiloksprofjozefatischnera;lodz widzew;ŁÓDZKIE;publiczna;66.33333333333333;47.59459459;81.94444444;74.0;-5.4430683419462795;;;Srodek;Dzieci lub młodzież;gmina miejska;555.0
+25406;xlviiiloedwardadembowskiegowwarszawie;ochota;MAZOWIECKIE;publiczna;153.51;73.01342282;100.0;149.0;1.8102511734915936;;;Srodek;Dzieci lub młodzież;gmina miejska;637.0
+25407;xxxvloboleslawaprusa;praga poludnie;MAZOWIECKIE;publiczna;174.1457142857143;73.88405797;100.0;138.0;-1.6190973994659004;;;Srodek;Dzieci lub młodzież;gmina miejska;909.0
+25439;xxxloksbpignacegokrasickiego;lodz baluty;ŁÓDZKIE;publiczna;95.88333333333333;55.3245614;93.85964912;114.0;-3.870606780085815;;;Srodek;Dzieci lub młodzież;gmina miejska;449.0
+25441;xxxiloludwikazamenhofa;lodz gorna;ŁÓDZKIE;publiczna;134.6222222222222;75.68589744;99.35897436;156.0;8.418481827074004;;;Liderzy;Dzieci lub młodzież;gmina miejska;648.0
+25443;xxxiiiloarmiikrajowej;lodz polesie;ŁÓDZKIE;publiczna;135.14;65.29496403;100.0;139.0;-2.0803439478680303;;;Srodek;Dzieci lub młodzież;gmina miejska;671.0
+25445;xxlojuliuszaslowackiego;lodz gorna;ŁÓDZKIE;publiczna;94.38333333333333;59.98850575;98.85057471;87.0;1.105901288093861;;;Srodek;Dzieci lub młodzież;gmina miejska;578.0
+25446;xxivlomariisklodowskiejcurie;lodz baluty;ŁÓDZKIE;publiczna;97.37;57.08333333;90.74074074;108.0;-2.42162022410389;;;Srodek;Dzieci lub młodzież;gmina miejska;489.0
+25507;xxxiloromanaingardenawkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;152.275;62.50877193;92.98245614;57.0;-8.437055588540481;;;Maruderzy;Dzieci lub młodzież;gmina miejska;243.0
+25627;xxxivlokrzysztofakieslowskiego;lodz polesie;ŁÓDZKIE;publiczna;72.4375;49.86842105;89.47368421;38.0;-4.4412025684274425;;;Srodek;Dzieci lub młodzież;gmina miejska;386.0
+25632;xxvilojulianatuwima;wawer;MAZOWIECKIE;publiczna;121.5625;58.3974359;94.93670886;79.0;-6.148649488811692;;;Srodek;Dzieci lub młodzież;gmina miejska;513.0
+25682;vloksjozefaponiatowskiego;srodmiescie;MAZOWIECKIE;publiczna;174.55000000000004;87.24113475;100.0;141.0;11.65373601649138;;;Liderzy;Dzieci lub młodzież;gmina miejska;562.0
+25697;vloplkstanislawadabka;gdynia;POMORSKIE;publiczna;134.2875;55.75862069;89.53488372;87.0;-11.439046908035905;;;Maruderzy;Dzieci lub młodzież;gmina miejska;553.0
+25801;xivlostanislawastaszicawwarszawie;ochota;MAZOWIECKIE;publiczna;241.27857142857144;81.08878505;100.0;214.0;-8.403233946530023;;;Maruderzy;Dzieci lub młodzież;gmina miejska;873.0
+25877;xvlomariisklodowskiejcuriewkrakowie;krakow podgorze;MAŁOPOLSKIE;publiczna;146.725;62.52941176;99.34640523;153.0;-7.259930001275691;;;Srodek;Dzieci lub młodzież;gmina miejska;732.0
+25956;xxviilotadeuszaczackiego;srodmiescie;MAZOWIECKIE;publiczna;179.4;87.66956522;100.0;116.0;11.071543797710447;;;Liderzy;Dzieci lub młodzież;gmina miejska;567.0
+27081;iilokrolajanaiiisobieskiegowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;172.0125;77.2079646;100.0;226.0;2.149319489745338;;;Srodek;Dzieci lub młodzież;gmina miejska;1008.0
+27158;lixlojanuszakusocinskiego;bielany;MAZOWIECKIE;publiczna;111.60789473684213;59.34394904;86.53846154;157.0;-3.1278373927693295;;;Srodek;Dzieci lub młodzież;gmina miejska;705.0
+27280;lxlowojciechagorskiego;bielany;MAZOWIECKIE;publiczna;123.6;59.5974026;97.4025974;77.0;-5.373248506005744;;;Srodek;Dzieci lub młodzież;gmina miejska;463.0
+27325;xliiloirenysendlerowej;lodz baluty;ŁÓDZKIE;publiczna;54.85;53.38461538;84.61538462;52.0;2.7398013572292115;;;Srodek;Dzieci lub młodzież;gmina miejska;490.0
+27378;xliiilojulianatuwima;lodz gorna;ŁÓDZKIE;publiczna;69.16666666666667;50.9;76.66666667;30.0;-2.7280610662856617;;;Srodek;Dzieci lub młodzież;gmina miejska;431.0
+27812;lviiilokrzysztofakamilabaczynskiego;srodmiescie;MAZOWIECKIE;publiczna;132.025;73.01111111;97.77777778;90.0;6.2848937868850925;;;Srodek;Dzieci lub młodzież;gmina miejska;515.0
+27858;ixloklementynyhoffmanowej;srodmiescie;MAZOWIECKIE;publiczna;176.86666666666667;83.28571429;100.0;273.0;7.215578258413899;;;Srodek;Dzieci lub młodzież;gmina miejska;1165.0
+27918;xviiloandrzejafryczamodrzewskiego;srodmiescie;MAZOWIECKIE;publiczna;170.94;83.71641791;100.0;134.0;8.881255858243819;;;Liderzy;Dzieci lub młodzież;gmina miejska;657.0
+28516;xxxviilojaroslawadabrowskiego;srodmiescie;MAZOWIECKIE;publiczna;167.28;77.39007092;100.0;141.0;3.3175643406022033;;;Srodek;Dzieci lub młodzież;gmina miejska;727.0
+28603;xilomikolajareja;srodmiescie;MAZOWIECKIE;publiczna;167.8;77.75418994;100.0;179.0;3.5733279382999115;;;Srodek;Dzieci lub młodzież;gmina miejska;631.0
+29142;xivlokazimierzawielkiego;poznan nowe miasto;WIELKOPOLSKIE;publiczna;149.80714285714288;70.38738739;100.0;111.0;-0.04419839220201993;;;Srodek;Dzieci lub młodzież;gmina miejska;779.0
+29239;lxixlobohaterowpowstaniawarszawskiego1944wwarszawie;ochota;MAZOWIECKIE;publiczna;140.20999999999998;60.63291139;96.20253165;79.0;-7.798861955315324;;;Srodek;Dzieci lub młodzież;gmina miejska;504.0
+29583;iiilomarynarkiwojennejrpzoddz;gdynia;POMORSKIE;publiczna;188.1;80.28205128;100.0;117.0;1.8711602922683568;;;Srodek;Dzieci lub młodzież;gmina miejska;712.0
+29625;xxvlogeneralowejjadwigizamoyskiej;poznan jezyce;WIELKOPOLSKIE;publiczna;134.025;70.49107143;98.21428571;112.0;3.3481024826455297;;;Srodek;Dzieci lub młodzież;gmina miejska;608.0
+29670;ixlokarolalibelta;poznan stare miasto;WIELKOPOLSKIE;publiczna;157.44166666666666;68.88617886;100.0;123.0;-3.136257021159338;;;Srodek;Dzieci lub młodzież;gmina miejska;678.0
+29919;xxvilowkrakowie;krakow srodmiescie;MAŁOPOLSKIE;publiczna;131.51666666666665;65.34117647;100.0;85.0;-1.27911648195402;;;Srodek;Dzieci lub młodzież;gmina miejska;322.0
+30251;xviiilojanazamoyskiego;srodmiescie;MAZOWIECKIE;publiczna;172.38333333333333;82.06179775;100.0;178.0;6.92587994275091;;;Srodek;Dzieci lub młodzież;gmina miejska;828.0
+30253;lxviilojananowakajezioranskiego;srodmiescie;MAZOWIECKIE;publiczna;170.675;78.86666667;100.0;105.0;4.086724208455536;;;Srodek;Dzieci lub młodzież;gmina miejska;571.0
+30254;lxxvlojanaiiisobieskiego;srodmiescie;MAZOWIECKIE;publiczna;150.05;77.93103448;98.85714286;175.0;7.448843143426018;;;Liderzy;Dzieci lub młodzież;gmina miejska;741.0
+30502;ivloadamamickiewicza;praga poludnie;MAZOWIECKIE;publiczna;162.1125;72.25142857;100.0;175.0;-0.7442960002688324;;;Srodek;Dzieci lub młodzież;gmina miejska;714.0
+30629;lxxxviilogenleopoldaokulickiego;praga poludnie;MAZOWIECKIE;publiczna;123.0;60.96491228;83.92857143;57.0;-3.880713338733891;;;Srodek;Dzieci lub młodzież;gmina miejska;300.0
+30690;xvlonarcyzyzmichowskiej;srodmiescie;MAZOWIECKIE;publiczna;159.9466666666667;79.18852459;100.0;122.0;6.644107299480595;;;Srodek;Dzieci lub młodzież;gmina miejska;633.0
+31063;lxxxiiiloemilianakonopczynskiego;srodmiescie;MAZOWIECKIE;publiczna;157.6375;71.93617021;100.0;142.0;-0.1270726010328076;;;Srodek;Dzieci lub młodzież;gmina miejska;667.0
+31832;iiiloswjanakantego;poznan;WIELKOPOLSKIE;publiczna;167.6;79.27333333;100.0;150.0;5.1341464907238645;;;Srodek;Dzieci lub młodzież;gmina miejska;667.0
+31841;ivlokomisjiedukacjinarodowej;poznan jezyce;WIELKOPOLSKIE;publiczna;161.15555555555557;75.73856209;100.0;153.0;2.942241595495787;;;Srodek;Dzieci lub młodzież;gmina miejska;684.0
+34199;viiiloadamamickiewicza;poznan stare miasto;WIELKOPOLSKIE;publiczna;169.29285714285714;78.78443114;100.0;167.0;4.29249381877824;;;Srodek;Dzieci lub młodzież;gmina miejska;798.0
+34505;xcivlogenstanislawamaczka;bielany;MAZOWIECKIE;publiczna;157.43;79.2962963;100.0;189.0;7.276291469982041;;;Srodek;Dzieci lub młodzież;gmina miejska;863.0
+34506;cxxiiloignacegodomeyki;bielany;MAZOWIECKIE;publiczna;172.54166666666666;80.54166667;100.0;144.0;5.372756025831947;;;Srodek;Dzieci lub młodzież;gmina miejska;689.0
+34510;xxxixlolotnictwapolskiego;bielany;MAZOWIECKIE;publiczna;129.8625;61.02439024;89.3442623;123.0;-5.251214389405874;;;Srodek;Dzieci lub młodzież;gmina miejska;502.0
+34512;xlilojoachimalelewela;bielany;MAZOWIECKIE;publiczna;169.91111111111113;84.77990431;100.0;210.0;10.15913781604705;;;Liderzy;Dzieci lub młodzież;gmina miejska;839.0
+34513;liilowladyslawastanislawareymonta;bielany;MAZOWIECKIE;publiczna;144.33333333333334;67.29090909;98.18181818;110.0;-2.0000671872892184;;;Srodek;Dzieci lub młodzież;gmina miejska;497.0
+34621;xlvilostefanaczarnieckiegowwarszawie;targowek;MAZOWIECKIE;publiczna;144.53333333333333;66.51785714;98.21428571;168.0;-2.8147942997131707;;;Srodek;Dzieci lub młodzież;gmina miejska;906.0
+34665;lxxxviiilomichalakonarskiego;wola;MAZOWIECKIE;publiczna;68.23333333333333;65.38983051;96.55172414;59.0;11.956253535026136;;;Liderzy;Dzieci lub młodzież;gmina miejska;321.0
+39099;xxxiiilodwujezycznemikolajakopernika;wola;MAZOWIECKIE;publiczna;187.54;84.82758621;100.0;116.0;6.533385677055449;;;Srodek;Dzieci lub młodzież;gmina miejska;856.0
+39647;xvilostefaniisempolowskiej;zoliborz;MAZOWIECKIE;publiczna;156.07857142857142;79.2991453;100.0;117.0;7.56074549607537;;;Liderzy;Dzieci lub młodzież;gmina miejska;593.0
+39649;lxivlostanislawaignacegowitkiewiczawitkacego;zoliborz;MAZOWIECKIE;publiczna;176.1875;78.44067797;100.0;118.0;2.5120638441452456;;;Srodek;Dzieci lub młodzież;gmina miejska;504.0
+40982;viiilowladyslawaiv;praga polnoc;MAZOWIECKIE;publiczna;173.1;80.72142857;100.0;140.0;5.436174764065072;;;Srodek;Dzieci lub młodzież;gmina miejska;622.0
+41853;xxxviiilostanislawakostkipotockiegowwarszawie;wilanow;MAZOWIECKIE;publiczna;136.2625;75.46341463;100.0;82.0;7.854204803027528;;;Liderzy;Dzieci lub młodzież;gmina miejska;491.0
+41946;lloruybarbosy;praga polnoc;MAZOWIECKIE;publiczna;133.5;72.87401575;99.21875;128.0;5.840444104008412;;;Srodek;Dzieci lub młodzież;gmina miejska;757.0
+42509;loxiiialeksandrafredry;wroclaw krzyki;DOLNOŚLĄSKIE;publiczna;159.15;77.24137931;100.0;232.0;4.862968083136025;;;Srodek;Dzieci lub młodzież;gmina miejska;1184.0
+43385;lxxviiilomariipawlikowskiejjasnorzewskiej;bemowo;MAZOWIECKIE;publiczna;137.45166666666668;74.98657718;99.32885906;149.0;7.129573783115077;;;Srodek;Dzieci lub młodzież;gmina miejska;908.0
+43558;xilojadwigiiwaclawazembrzuskich;poznan grunwald;WIELKOPOLSKIE;publiczna;146.29999999999998;70.13939394;99.39759036;166.0;0.438611898875223;;;Srodek;Dzieci lub młodzież;gmina miejska;722.0
+43580;loswmariimagdaleny;poznan;WIELKOPOLSKIE;publiczna;172.62;82.19047619;100.0;147.0;7.005242773882571;;;Srodek;Dzieci lub młodzież;gmina miejska;643.0
+44248;cxxxviilorobertaschumana;targowek;MAZOWIECKIE;publiczna;132.74285714285716;74.23493976;100.0;166.0;7.359138371756245;;;Srodek;Dzieci lub młodzież;gmina miejska;679.0
+46647;lxxxivlobohaterownarwiku;wlochy;MAZOWIECKIE;publiczna;152.02499999999998;71.28571429;100.0;21.0;0.3919807244894713;;;Srodek;Dzieci lub młodzież;gmina miejska;134.0
+49970;xxxiilostefanagrotaroweckiego;srodmiescie;MAZOWIECKIE;publiczna;120.65;60.71428571;95.23809524;21.0;-3.6416567502523947;;;Srodek;Dzieci lub młodzież;gmina miejska;161.0
+51790;vilohugonakollatajawlublinie;lublin;LUBELSKIE;publiczna;91.8625;56.4375;89.14728682;129.0;-1.9198237688541937;;;Srodek;Dzieci lub młodzież;gmina miejska;793.0
+52409;ilostanislawastaszicawlublinie;lublin;LUBELSKIE;publiczna;161.83333333333334;75.58741259;100.0;143.0;2.6498596006146187;;;Srodek;Dzieci lub młodzież;gmina miejska;739.0
+52410;iilohetmanajanazamoyskiegowlublinie;lublin;LUBELSKIE;publiczna;164.79999999999998;73.09444444;100.0;180.0;-0.46129012534073865;;;Srodek;Dzieci lub młodzież;gmina miejska;704.0
+52697;iiilouniilubelskiejwlublinie;lublin;LUBELSKIE;publiczna;175.11;81.47395833;100.0;192.0;5.769869141704319;;;Srodek;Dzieci lub młodzież;gmina miejska;653.0
+52853;vlomariisklodowskiejcuriewlublinie;lublin;LUBELSKIE;publiczna;155.11666666666667;70.50471698;100.0;213.0;-1.0332451379808703;;;Srodek;Dzieci lub młodzież;gmina miejska;883.0
+52854;ivlostefaniisempolowskiejwlublinie;lublin;LUBELSKIE;publiczna;132.89166666666668;66.46315789;100.0;190.0;-0.4436518036187209;;;Srodek;Dzieci lub młodzież;gmina miejska;863.0
+52855;viiilozofiinalkowskiejwlublinie;lublin;LUBELSKIE;publiczna;82.6375;65.4057971;92.75362319;69.0;8.97074019795079;;;Liderzy;Dzieci lub młodzież;gmina miejska;495.0
+52857;ixlomikolajakopernikawlublinie;lublin;LUBELSKIE;publiczna;158.03333333333333;72.70680628;100.0;191.0;0.561081376669776;;;Srodek;Dzieci lub młodzież;gmina miejska;703.0
+52860;xxiiilonauczycielitajnegonauczaniawlublinie;lublin;LUBELSKIE;publiczna;128.75;62.73991031;98.20627803;223.0;-3.3038762284226237;;;Srodek;Dzieci lub młodzież;gmina miejska;867.0
+56095;iilostefanabatorego;srodmiescie;MAZOWIECKIE;publiczna;186.29;81.63559322;100.0;118.0;3.601862452205168;;;Srodek;Dzieci lub młodzież;gmina miejska;801.0
+56370;liiilo;srodmiescie;MAZOWIECKIE;publiczna;160.85;54.06993007;58.74125874;144.0;-18.662720037467608;;;Maruderzy;Dorośli;gmina miejska;907.0
+56463;ciiloksiedzajozefawozniaka;targowek;MAZOWIECKIE;publiczna;109.8;59.61538462;65.38461538;26.0;-2.4796802787527668;;;Srodek;Dzieci lub młodzież;gmina miejska;312.0
+59581;lilotadeuszakosciuszki;rembertow;MAZOWIECKIE;publiczna;105.975;62.78378378;98.63013699;74.0;1.4857563626053931;;;Srodek;Dzieci lub młodzież;gmina miejska;505.0
+59665;xiiiloplkleopoldalisakuli;targowek;MAZOWIECKIE;publiczna;155.10625;77.21126761;100.0;213.0;5.675476073395387;;;Srodek;Dzieci lub młodzież;gmina miejska;1122.0
+68270;loixjuliuszaslowackiego;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;165.20666666666665;74.26642336;99.6350365;274.0;0.625949297730557;;;Srodek;Dzieci lub młodzież;gmina miejska;1185.0
+68321;loxivpoloniibelgijskiej;wroclaw psie pole;DOLNOŚLĄSKIE;publiczna;163.575;76.21463415;99.51219512;205.0;2.9141599545059904;;;Srodek;Dzieci lub młodzież;gmina miejska;912.0
+68477;xviiilostanislawyfilipinypaleologwlublinie;lublin;LUBELSKIE;publiczna;54.5;54.57894737;73.68421053;19.0;4.007064881471138;;;Srodek;Dzieci lub młodzież;gmina miejska;264.0
+70905;xviilowbialymstokuzespoluszkolrolniczychwbialymstoku;bialystok;PODLASKIE;publiczna;60.65;52.8125;81.25;16.0;0.9591062669344836;;;Srodek;Dzieci lub młodzież;gmina miejska;98.0
+71604;ixlowbialymstokuzespoluszkologolnoksztalcacychitechnicznychwbialymstoku;bialystok;PODLASKIE;publiczna;59.116666666666674;44.31818182;48.48484848;66.0;-7.215702334481854;;;Srodek;Dzieci lub młodzież;gmina miejska;423.0
+74772;iilodrwladyslawapniewskiegowgdansku;gdansk;POMORSKIE;publiczna;166.42000000000002;68.56435644;100.0;202.0;-5.328946940974788;;;Srodek;Dzieci lub młodzież;gmina miejska;637.0
+74951;lozakwszczecinie;szczecin;ZACHODNIOPOMORSKIE;niepubliczna;143.01999999999998;37.33333333;42.85714286;52.0;-31.6839760473719;;;Maruderzy;Dorośli;gmina miejska;620.0
+79023;xixlomariiijerzegokuncewiczowwlublinie;lublin;LUBELSKIE;publiczna;87.6875;53.24074074;87.03703704;54.0;-4.24661401325411;;;Srodek;Dzieci lub młodzież;gmina miejska;498.0
+79204;ilokarolamarcinkowskiego;poznan;WIELKOPOLSKIE;publiczna;172.175;80.54491018;100.0;168.0;5.452404000275877;;;Srodek;Dzieci lub młodzież;gmina miejska;788.0
+79348;katolickieloswmaksymilianamariikolbego;szczecin;ZACHODNIOPOMORSKIE;publiczna;140.71666666666667;73.4375;100.0;48.0;4.9001495765439955;;;Srodek;Dzieci lub młodzież;gmina miejska;178.0
+79937;xxilogenwladyslawaandersa;poznan stare miasto;WIELKOPOLSKIE;publiczna;119.825;66.32142857;98.80952381;84.0;2.137396154746412;;;Srodek;Dzieci lub młodzież;gmina miejska;376.0
+80197;cxxviiilo;wola;MAZOWIECKIE;publiczna;160.85;52.66216216;43.05555556;75.0;-20.070487947467605;;;Maruderzy;Dorośli;gmina miejska;595.0
+81335;lxxxloleopoldastaffa;mokotow;MAZOWIECKIE;publiczna;149.875;71.22807018;100.0;57.0;0.7823446105469998;;;Srodek;Dzieci lub młodzież;gmina miejska;328.0
+82414;iilogeneralowejzamoyskiejihelenymodrzejewskiej;poznan grunwald;WIELKOPOLSKIE;publiczna;190.83333333333331;86.23809524;100.0;105.0;7.257643699140971;;;Srodek;Dzieci lub młodzież;gmina miejska;511.0
+83621;cxlorobertaschumana;mokotow;MAZOWIECKIE;publiczna;130.45000000000002;62.6097561;93.90243902;82.0;-3.7882693190262557;;;Srodek;Dzieci lub młodzież;gmina miejska;386.0
+83650;vilotadeuszareytana;mokotow;MAZOWIECKIE;publiczna;165.63333333333335;77.24698795;100.0;166.0;3.5176068745594478;;;Srodek;Dzieci lub młodzież;gmina miejska;853.0
+83866;iilokrolowejjadwigi;torun;KUJAWSKO-POMORSKIE;publiczna;70.9625;54.12328767;91.78082192;73.0;0.12101837444923547;;;Srodek;Dzieci lub młodzież;gmina miejska;571.0
+84029;ivlotadeuszakosciuszki;torun;KUJAWSKO-POMORSKIE;publiczna;161.66;69.8496732;100.0;153.0;-3.0517613152846224;;;Srodek;Dzieci lub młodzież;gmina miejska;665.0
+84173;vilozeslancowsybiru;torun;KUJAWSKO-POMORSKIE;publiczna;58.833333333333336;43.29166667;66.66666667;48.0;-8.183177671047922;;;Maruderzy;Dzieci lub młodzież;gmina miejska;383.0
+84309;xiiilo;torun;KUJAWSKO-POMORSKIE;publiczna;54.75;51.4;83.33333333;30.0;0.7760235584411888;;;Srodek;Dzieci lub młodzież;gmina miejska;176.0
+84682;viiilo;torun;KUJAWSKO-POMORSKIE;publiczna;54.75;60.20261438;100.0;153.0;9.57863793844119;;;Liderzy;Dzieci lub młodzież;gmina miejska;766.0
+86095;xxviiilo;poznan grunwald;WIELKOPOLSKIE;publiczna;124.025;58.21428571;92.85714286;56.0;-6.844925116156659;;;Srodek;Dzieci lub młodzież;gmina miejska;270.0
+86171;viloignacegojanapaderewskiego;poznan;WIELKOPOLSKIE;publiczna;162.275;72.16049383;100.0;162.0;-0.8690918097382934;;;Srodek;Dzieci lub młodzież;gmina miejska;793.0
+86172;viilodabrowki;poznan jezyce;WIELKOPOLSKIE;publiczna;146.4;77.71812081;100.0;149.0;7.996501187663242;;;Liderzy;Dzieci lub młodzież;gmina miejska;717.0
+86518;publiczneakademickielowrzeszowie;rzeszow;PODKARPACKIE;publiczna;148.5;70.53448276;100.0;58.0;0.375273932211698;;;Srodek;Dzieci lub młodzież;gmina miejska;248.0
+86679;xxixlo;poznan wilda;WIELKOPOLSKIE;publiczna;106.91;67.68493151;97.26027397;73.0;6.1920727082734;;;Srodek;Dzieci lub młodzież;gmina miejska;464.0
+88064;xixlopowstancowwarszawy;praga poludnie;MAZOWIECKIE;publiczna;167.7125;77.11111111;100.0;144.0;2.9484819918603904;;;Srodek;Dzieci lub młodzież;gmina miejska;616.0
+88065;xxiiilomariisklodowskiejcurie;praga poludnie;MAZOWIECKIE;publiczna;126.25;61.94594595;97.2972973;74.0;-3.5769010581231626;;;Srodek;Dzieci lub młodzież;gmina miejska;435.0
+88066;xlviilostanislawawyspianskiego;praga poludnie;MAZOWIECKIE;publiczna;153.16;73.47468354;100.0;158.0;2.3444434277335233;;;Srodek;Dzieci lub młodzież;gmina miejska;713.0
+88067;lxxiilogenjakubajasinskiego;praga poludnie;MAZOWIECKIE;publiczna;133.96875;60.02325581;97.6744186;129.0;-7.107991997922731;;;Srodek;Dzieci lub młodzież;gmina miejska;649.0
+88068;xcixlozbigniewaherberta;praga poludnie;MAZOWIECKIE;publiczna;132.394;69.48648649;99.32432432;148.0;2.6833784922128956;;;Srodek;Dzieci lub młodzież;gmina miejska;723.0
+88359;xvlop0rofwiktoradegi;poznan stare miasto;WIELKOPOLSKIE;publiczna;154.45000000000002;63.48421053;98.94736842;95.0;-7.914834379901009;;;Srodek;Dzieci lub młodzież;gmina miejska;594.0
+88677;xxxilo;poznan grunwald;WIELKOPOLSKIE;publiczna;100.91666666666669;60.70588235;92.15686275;51.0;0.4618892489112838;;;Srodek;Dzieci lub młodzież;gmina miejska;261.0
+88974;viilomariikonopnickiejwlublinie;lublin;LUBELSKIE;publiczna;88.63333333333333;59.73333333;95.0;60.0;2.048889787782606;;;Srodek;Dzieci lub młodzież;gmina miejska;412.0
+88975;xxviilozeslancowsybiruwlublinie;lublin;LUBELSKIE;publiczna;56.958333333333336;47.36111111;72.60273973;73.0;-3.7230285833233268;;;Srodek;Dzieci lub młodzież;gmina miejska;527.0
+89596;katolickieloswstanislawakostkiwkielcach;kielce;ŚWIĘTOKRZYSKIE;publiczna;139.18333333333334;69.93103448;100.0;87.0;1.7131936351276522;;;Srodek;Dzieci lub młodzież;gmina miejska;359.0
+90185;xviilo;poznan nowe miasto;WIELKOPOLSKIE;publiczna;33.0;65.10240964;99.39759036;166.0;19.010607112046436;;;Liderzy;Dzieci lub młodzież;gmina miejska;740.0
+91173;xviiilo;poznan grunwald;WIELKOPOLSKIE;publiczna;33.0;64.07142857;89.28571429;28.0;17.979626042046426;;;Liderzy;Dzieci lub młodzież;gmina miejska;334.0
+105214;lvilorotmistrzawitoldapileckiego;ursus;MAZOWIECKIE;publiczna;134.54285714285714;63.32283465;92.91338583;127.0;-3.9280432000593564;;;Srodek;Dzieci lub młodzież;gmina miejska;585.0
+106559;lovgeneralajakubajasinskiego;wroclaw krzyki;DOLNOŚLĄSKIE;publiczna;167.92499999999998;79.80864198;100.0;163.0;5.60173300178495;;;Srodek;Dzieci lub młodzież;gmina miejska;1038.0
+106868;loiipiastowslaskich;wroclaw srodmiescie;DOLNOŚLĄSKIE;publiczna;173.6875;70.91240876;99.27007299;137.0;-4.495265835555287;;;Srodek;Dzieci lub młodzież;gmina miejska;720.0
+108754;xilomariidabrowskiejwkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;160.20833333333334;76.18012422;100.0;161.0;3.5811819253092523;;;Srodek;Dzieci lub młodzież;gmina miejska;726.0
+110260;cvlozbigniewaherberta;bialoleka;MAZOWIECKIE;publiczna;146.55416666666667;75.85185185;100.0;162.0;6.098107623294766;;;Srodek;Dzieci lub młodzież;gmina miejska;853.0
+110460;lointegracyjnewbialymstokuzespoluszkoltechnicznychiogolnoksztalcacychstanislawastaszicawbialymstoku;bialystok;PODLASKIE;publiczna;67.0125;58.38461538;69.23076923;13.0;5.205430542322368;;;Srodek;Dzieci lub młodzież;gmina miejska;110.0
+110509;vlowkrakowie;krakow nowa huta;MAŁOPOLSKIE;publiczna;111.95;49.43333333;46.42857143;30.0;-13.109739564810297;;;Maruderzy;Dorośli;gmina miejska;506.0
+115341;civlo;praga poludnie;MAZOWIECKIE;publiczna;119.94166666666666;46.75903614;69.62025316;83.0;-17.449306786667556;;;Maruderzy;Dorośli;gmina miejska;517.0
+121357;xloprzemyslaii;poznan nowe miasto;WIELKOPOLSKIE;publiczna;134.525;67.91056911;99.18032787;123.0;0.6634122565856302;;;Srodek;Dzieci lub młodzież;gmina miejska;706.0
+125907;xxxvilo;poznan grunwald;WIELKOPOLSKIE;publiczna;100.91666666666669;29.72727273;9.090909091;33.0;-30.51672037108872;;;Maruderzy;Dorośli;gmina miejska;90.0
+126415;lo;poznan nowe miasto;WIELKOPOLSKIE;publiczna;140.15;57.07894737;91.30434783;115.0;-11.340323426588135;;;Maruderzy;Dzieci lub młodzież;gmina miejska;569.0
+130870;lozakwbydgoszczy;bydgoszcz;KUJAWSKO-POMORSKIE;niepubliczna;141.7375;40.81818182;9.090909091;11.0;-27.931885578328284;;;Maruderzy;Dorośli;gmina miejska;366.0
+133365;clviiiloksieznejizabeliczartoryskiej;ursynow;MAZOWIECKIE;publiczna;167.92;66.87313433;99.25373134;134.0;-7.332732769154461;;;Srodek;Dzieci lub młodzież;gmina miejska;591.0
+133453;clvlobohaterekpowstaniawarszawskiego;mokotow;MAZOWIECKIE;publiczna;146.24;78.45454545;100.0;121.0;8.7662659576024;;;Liderzy;Dzieci lub młodzież;gmina miejska;773.0
+133649;publiczneloixgeneralawladyslawaandersawopolu;opole;OPOLSKIE;publiczna;85.39999999999999;56.48672566;93.80530973;113.0;-0.5239694230301026;;;Srodek;Dzieci lub młodzież;gmina miejska;431.0
+133672;xxxviiloterapeutycznymi;poznan grunwald;WIELKOPOLSKIE;publiczna;27.95;42.53658537;37.5;41.0;-2.50291930674868;;;Srodek;Dzieci lub młodzież;gmina miejska;260.0
+133673;xxxviiidwujezycznelo;poznan jezyce;WIELKOPOLSKIE;publiczna;176.05714285714288;77.73636364;100.0;110.0;1.834912789653714;;;Srodek;Dzieci lub młodzież;gmina miejska;712.0
+133758;xxixloccmjrhieronimadekutowskiegopszaporawlublinie;lublin;LUBELSKIE;publiczna;134.56875;62.20175439;95.61403509;114.0;-5.054518905194605;;;Srodek;Dzieci lub młodzież;gmina miejska;581.0
+133759;xxxloksiedzajanatwardowskiegowlublinie;lublin;LUBELSKIE;publiczna;159.64375;73.12060302;100.0;199.0;0.6393062359018842;;;Srodek;Dzieci lub młodzież;gmina miejska;839.0
+133795;clixlokrolajanaiiisobieskiego;wlochy;MAZOWIECKIE;publiczna;160.501;74.3525641;100.0;158.0;1.6926371509621845;;;Srodek;Dzieci lub młodzież;gmina miejska;810.0
+196346;xviilowgdyni;gdynia;POMORSKIE;publiczna;158.75;66.67692308;100.0;65.0;-5.618137822016067;;;Srodek;Dzieci lub młodzież;gmina miejska;453.0
+262227;xvilowszczecinie;szczecin;ZACHODNIOPOMORSKIE;publiczna;143.01999999999998;60.4962406;99.2481203;133.0;-8.521068777371902;;;Maruderzy;Dzieci lub młodzież;gmina miejska;577.0
+263069;liceumsluzbmundurowychwewroclawiu;wroclaw stare miasto;DOLNOŚLĄSKIE;publiczna;59.39615384615384;48.57276995;66.98564593;213.0;-3.019352572484557;;;Srodek;Dzieci lub młodzież;gmina miejska;1094.0
+263334;clviilomariisklodowskiejcurie;srodmiescie;MAZOWIECKIE;publiczna;166.92857142857142;80.39263804;100.0;163.0;6.393360674575732;;;Srodek;Dzieci lub młodzież;gmina miejska;735.0
+263524;ixlo;rzeszow;PODKARPACKIE;publiczna;53.025;70.7804878;100.0;123.0;20.515959634347816;;;Liderzy;Dzieci lub młodzież;gmina miejska;602.0
+266615;publicznelopaulimontalsiostrpijarekwrzeszowie;rzeszow;PODKARPACKIE;publiczna;135.01666666666668;61.07142857;100.0;14.0;-6.278179724373253;;;Srodek;Dzieci lub młodzież;gmina miejska;178.0
+266884;clxilo;wola;MAZOWIECKIE;publiczna;94.36666666666667;76.56944444;100.0;72.0;17.69031290829585;;;Liderzy;Dzieci lub młodzież;gmina miejska;358.0
+267034;clxiiloszarychszeregow;targowek;MAZOWIECKIE;publiczna;88.67142857142858;63.3030303;100.0;66.0;5.610648631606608;;;Srodek;Dzieci lub młodzież;gmina miejska;487.0
+271907;clxivlo;mokotow;MAZOWIECKIE;publiczna;94.36666666666667;52.03448276;93.10344828;29.0;-6.8446487717041435;;;Srodek;Dzieci lub młodzież;gmina miejska;168.0
+272082;sportowelokazimierzanowaka;poznan stare miasto;WIELKOPOLSKIE;publiczna;31.5;52.26666667;83.33333333;30.0;6.487427860226099;;;Srodek;Dzieci lub młodzież;gmina miejska;143.0
+274376;clxvlo;bialoleka;MAZOWIECKIE;publiczna;122.44;70.89534884;100.0;86.0;6.166413676053196;;;Srodek;Dzieci lub młodzież;gmina miejska;500.0
